@@ -19,7 +19,7 @@ The synthetic dataset was designed using operational concepts and observations g
 - Automated PDF reporting
 
 ## Dashboard
-
+Example:
 <img width="1297" height="653" alt="image" src="https://github.com/user-attachments/assets/0bd760c1-8875-4b7d-927b-275c22398600" />
 
 
