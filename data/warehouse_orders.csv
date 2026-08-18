@@ -1,0 +1,901 @@
+Order_ID,Order_Date,Process_Path,Process_Step,Duration_Minutes,Employees,Hourly_Wage,Units_Processed,Target_Time,Status
+ORD-001,2026-08-20,Standard Order,Order Received,1.5,1,20.0,13,1.5,Completed
+ORD-001,2026-08-20,Standard Order,Item Picking,5.2,2,20.0,13,7.0,Completed
+ORD-001,2026-08-20,Standard Order,Quality Check,2.5,1,20.0,13,2.5,Completed
+ORD-001,2026-08-20,Standard Order,Packing,3.5,2,20.0,13,4.5,Completed
+ORD-001,2026-08-20,Standard Order,Labeling,1.4,1,20.0,13,1.5,Completed
+ORD-001,2026-08-20,Standard Order,Staging for Shipment,2.2,1,20.0,13,2.0,Completed
+ORD-002,2026-08-03,Standard Order,Order Received,1.3,1,20.0,9,1.5,Completed
+ORD-002,2026-08-03,Standard Order,Item Picking,6.7,1,20.0,9,7.0,Completed
+ORD-002,2026-08-03,Standard Order,Quality Check,2.2,1,20.0,9,2.5,Completed
+ORD-002,2026-08-03,Standard Order,Packing,4.1,1,20.0,9,4.5,Completed
+ORD-002,2026-08-03,Standard Order,Labeling,1.3,1,20.0,9,1.5,Completed
+ORD-002,2026-08-03,Standard Order,Staging for Shipment,1.8,1,20.0,9,2.0,Completed
+ORD-003,2026-08-29,Standard Order,Order Received,1.3,1,20.0,14,1.5,Completed
+ORD-003,2026-08-29,Standard Order,Item Picking,6.2,2,20.0,14,7.0,Completed
+ORD-003,2026-08-29,Standard Order,Quality Check,2.6,1,20.0,14,2.5,Completed
+ORD-003,2026-08-29,Standard Order,Packing,4.8,1,20.0,14,4.5,Completed
+ORD-003,2026-08-29,Standard Order,Labeling,1.2,1,20.0,14,1.5,Completed
+ORD-003,2026-08-29,Standard Order,Staging for Shipment,1.7,1,20.0,14,2.0,Completed
+ORD-004,2026-08-02,Standard Order,Order Received,1.6,1,20.0,14,1.5,Completed
+ORD-004,2026-08-02,Standard Order,Item Picking,8.4,1,20.0,14,7.0,Completed
+ORD-004,2026-08-02,Standard Order,Quality Check,2.9,1,20.0,14,2.5,Completed
+ORD-004,2026-08-02,Standard Order,Packing,5.5,1,20.0,14,4.5,Completed
+ORD-004,2026-08-02,Standard Order,Labeling,1.7,1,20.0,14,1.5,Completed
+ORD-004,2026-08-02,Standard Order,Staging for Shipment,2.3,1,20.0,14,2.0,Completed
+ORD-005,2026-08-06,Standard Order,Order Received,1.6,1,20.0,12,1.5,Completed
+ORD-005,2026-08-06,Standard Order,Item Picking,7.7,1,20.0,12,7.0,Completed
+ORD-005,2026-08-06,Standard Order,Quality Check,2.3,1,20.0,12,2.5,Completed
+ORD-005,2026-08-06,Standard Order,Packing,4.8,1,20.0,12,4.5,Completed
+ORD-005,2026-08-06,Standard Order,Labeling,1.6,1,20.0,12,1.5,Completed
+ORD-005,2026-08-06,Standard Order,Staging for Shipment,1.8,1,20.0,12,2.0,Completed
+ORD-006,2026-08-11,Standard Order,Order Received,1.1,1,20.0,7,1.5,Completed
+ORD-006,2026-08-11,Standard Order,Item Picking,4.8,1,20.0,7,7.0,Completed
+ORD-006,2026-08-11,Standard Order,Quality Check,2.0,1,20.0,7,2.5,Completed
+ORD-006,2026-08-11,Standard Order,Packing,3.8,1,20.0,7,4.5,Completed
+ORD-006,2026-08-11,Standard Order,Labeling,1.3,1,20.0,7,1.5,Completed
+ORD-006,2026-08-11,Standard Order,Staging for Shipment,1.6,1,20.0,7,2.0,Completed
+ORD-007,2026-08-27,Standard Order,Order Received,1.5,1,20.0,13,1.5,Completed
+ORD-007,2026-08-27,Standard Order,Item Picking,8.1,1,20.0,13,7.0,Completed
+ORD-007,2026-08-27,Standard Order,Quality Check,2.3,1,20.0,13,2.5,Completed
+ORD-007,2026-08-27,Standard Order,Packing,4.5,1,20.0,13,4.5,Completed
+ORD-007,2026-08-27,Standard Order,Labeling,1.4,1,20.0,13,1.5,Completed
+ORD-007,2026-08-27,Standard Order,Staging for Shipment,1.9,1,20.0,13,2.0,Completed
+ORD-008,2026-08-24,Standard Order,Order Received,1.7,1,20.0,6,1.5,Completed
+ORD-008,2026-08-24,Standard Order,Item Picking,5.8,1,20.0,6,7.0,Completed
+ORD-008,2026-08-24,Standard Order,Quality Check,2.5,1,20.0,6,2.5,Completed
+ORD-008,2026-08-24,Standard Order,Packing,4.3,1,20.0,6,4.5,Completed
+ORD-008,2026-08-24,Standard Order,Labeling,1.7,1,20.0,6,1.5,Completed
+ORD-008,2026-08-24,Standard Order,Staging for Shipment,2.2,1,20.0,6,2.0,Completed
+ORD-009,2026-08-21,Standard Order,Order Received,1.5,1,20.0,6,1.5,Completed
+ORD-009,2026-08-21,Standard Order,Item Picking,5.8,1,20.0,6,7.0,Completed
+ORD-009,2026-08-21,Standard Order,Quality Check,2.5,1,20.0,6,2.5,Completed
+ORD-009,2026-08-21,Standard Order,Packing,4.1,1,20.0,6,4.5,Completed
+ORD-009,2026-08-21,Standard Order,Labeling,1.6,1,20.0,6,1.5,Completed
+ORD-009,2026-08-21,Standard Order,Staging for Shipment,2.0,1,20.0,6,2.0,Completed
+ORD-010,2026-08-21,Standard Order,Order Received,1.5,1,20.0,14,1.5,Completed
+ORD-010,2026-08-21,Standard Order,Item Picking,7.7,2,20.0,14,7.0,Completed
+ORD-010,2026-08-21,Standard Order,Quality Check,2.8,1,20.0,14,2.5,Completed
+ORD-010,2026-08-21,Standard Order,Packing,6.2,1,20.0,14,4.5,Completed
+ORD-010,2026-08-21,Standard Order,Labeling,1.7,1,20.0,14,1.5,Completed
+ORD-010,2026-08-21,Standard Order,Staging for Shipment,2.4,1,20.0,14,2.0,Completed
+ORD-011,2026-08-28,Standard Order,Order Received,1.2,1,20.0,5,1.5,Completed
+ORD-011,2026-08-28,Standard Order,Item Picking,4.6,1,20.0,5,7.0,Completed
+ORD-011,2026-08-28,Standard Order,Quality Check,2.2,1,20.0,5,2.5,Completed
+ORD-011,2026-08-28,Standard Order,Packing,3.6,1,20.0,5,4.5,Completed
+ORD-011,2026-08-28,Standard Order,Labeling,1.3,1,20.0,5,1.5,Completed
+ORD-011,2026-08-28,Standard Order,Staging for Shipment,1.8,1,20.0,5,2.0,Completed
+ORD-012,2026-08-10,Standard Order,Order Received,1.6,1,20.0,10,1.5,Completed
+ORD-012,2026-08-10,Standard Order,Item Picking,5.9,1,20.0,10,7.0,Completed
+ORD-012,2026-08-10,Standard Order,Quality Check,2.4,1,20.0,10,2.5,Completed
+ORD-012,2026-08-10,Standard Order,Packing,4.1,1,20.0,10,4.5,Completed
+ORD-012,2026-08-10,Standard Order,Labeling,1.4,1,20.0,10,1.5,Completed
+ORD-012,2026-08-10,Standard Order,Staging for Shipment,2.4,1,20.0,10,2.0,Completed
+ORD-013,2026-08-11,Standard Order,Order Received,1.6,1,20.0,9,1.5,Completed
+ORD-013,2026-08-11,Standard Order,Item Picking,7.4,1,20.0,9,7.0,Completed
+ORD-013,2026-08-11,Standard Order,Quality Check,2.6,1,20.0,9,2.5,Completed
+ORD-013,2026-08-11,Standard Order,Packing,4.6,1,20.0,9,4.5,Completed
+ORD-013,2026-08-11,Standard Order,Labeling,1.7,1,20.0,9,1.5,Completed
+ORD-013,2026-08-11,Standard Order,Staging for Shipment,2.1,1,20.0,9,2.0,Completed
+ORD-014,2026-08-29,Standard Order,Order Received,1.3,1,20.0,8,1.5,Completed
+ORD-014,2026-08-29,Standard Order,Item Picking,5.4,1,20.0,8,7.0,Completed
+ORD-014,2026-08-29,Standard Order,Quality Check,2.1,1,20.0,8,2.5,Completed
+ORD-014,2026-08-29,Standard Order,Packing,3.8,1,20.0,8,4.5,Completed
+ORD-014,2026-08-29,Standard Order,Labeling,1.4,1,20.0,8,1.5,Completed
+ORD-014,2026-08-29,Standard Order,Staging for Shipment,1.9,1,20.0,8,2.0,Completed
+ORD-015,2026-08-25,Standard Order,Order Received,1.5,1,20.0,13,1.5,Completed
+ORD-015,2026-08-25,Standard Order,Item Picking,6.0,2,20.0,13,7.0,Completed
+ORD-015,2026-08-25,Standard Order,Quality Check,2.7,1,20.0,13,2.5,Completed
+ORD-015,2026-08-25,Standard Order,Packing,4.9,1,20.0,13,4.5,Completed
+ORD-015,2026-08-25,Standard Order,Labeling,1.7,1,20.0,13,1.5,Completed
+ORD-015,2026-08-25,Standard Order,Staging for Shipment,2.0,1,20.0,13,2.0,Completed
+ORD-016,2026-08-14,Standard Order,Order Received,1.6,1,20.0,13,1.5,Completed
+ORD-016,2026-08-14,Standard Order,Item Picking,5.7,2,20.0,13,7.0,Completed
+ORD-016,2026-08-14,Standard Order,Quality Check,3.2,1,20.0,13,2.5,Completed
+ORD-016,2026-08-14,Standard Order,Packing,5.5,1,20.0,13,4.5,Completed
+ORD-016,2026-08-14,Standard Order,Labeling,1.6,1,20.0,13,1.5,Completed
+ORD-016,2026-08-14,Standard Order,Staging for Shipment,1.9,1,20.0,13,2.0,Completed
+ORD-017,2026-08-17,Standard Order,Order Received,1.6,1,20.0,12,1.5,Completed
+ORD-017,2026-08-17,Standard Order,Item Picking,8.4,1,20.0,12,7.0,Completed
+ORD-017,2026-08-17,Standard Order,Quality Check,2.7,1,20.0,12,2.5,Completed
+ORD-017,2026-08-17,Standard Order,Packing,4.7,1,20.0,12,4.5,Completed
+ORD-017,2026-08-17,Standard Order,Labeling,1.7,1,20.0,12,1.5,Completed
+ORD-017,2026-08-17,Standard Order,Staging for Shipment,1.9,1,20.0,12,2.0,Completed
+ORD-018,2026-08-06,Standard Order,Order Received,1.4,1,20.0,12,1.5,Completed
+ORD-018,2026-08-06,Standard Order,Item Picking,7.5,1,20.0,12,7.0,Completed
+ORD-018,2026-08-06,Standard Order,Quality Check,2.5,1,20.0,12,2.5,Completed
+ORD-018,2026-08-06,Standard Order,Packing,4.3,1,20.0,12,4.5,Completed
+ORD-018,2026-08-06,Standard Order,Labeling,1.4,1,20.0,12,1.5,Completed
+ORD-018,2026-08-06,Standard Order,Staging for Shipment,1.8,1,20.0,12,2.0,Completed
+ORD-019,2026-08-25,Standard Order,Order Received,1.7,1,20.0,11,1.5,Completed
+ORD-019,2026-08-25,Standard Order,Item Picking,8.9,1,20.0,11,7.0,Completed
+ORD-019,2026-08-25,Standard Order,Quality Check,2.8,1,20.0,11,2.5,Completed
+ORD-019,2026-08-25,Standard Order,Packing,4.9,1,20.0,11,4.5,Completed
+ORD-019,2026-08-25,Standard Order,Labeling,1.8,1,20.0,11,1.5,Completed
+ORD-019,2026-08-25,Standard Order,Staging for Shipment,2.2,1,20.0,11,2.0,Completed
+ORD-020,2026-08-28,Standard Order,Order Received,1.7,1,20.0,12,1.5,Completed
+ORD-020,2026-08-28,Standard Order,Item Picking,6.5,2,20.0,12,7.0,Completed
+ORD-020,2026-08-28,Standard Order,Quality Check,3.2,1,20.0,12,2.5,Completed
+ORD-020,2026-08-28,Standard Order,Packing,5.7,1,20.0,12,4.5,Completed
+ORD-020,2026-08-28,Standard Order,Labeling,1.6,1,20.0,12,1.5,Completed
+ORD-020,2026-08-28,Standard Order,Staging for Shipment,2.1,1,20.0,12,2.0,Completed
+ORD-021,2026-08-06,Standard Order,Order Received,1.7,1,20.0,13,1.5,Completed
+ORD-021,2026-08-06,Standard Order,Item Picking,9.3,1,20.0,13,7.0,Completed
+ORD-021,2026-08-06,Standard Order,Quality Check,3.3,1,20.0,13,2.5,Completed
+ORD-021,2026-08-06,Standard Order,Packing,4.1,2,20.0,13,4.5,Completed
+ORD-021,2026-08-06,Standard Order,Labeling,1.7,1,20.0,13,1.5,Completed
+ORD-021,2026-08-06,Standard Order,Staging for Shipment,2.4,1,20.0,13,2.0,Completed
+ORD-022,2026-08-28,Standard Order,Order Received,1.6,1,20.0,9,1.5,Completed
+ORD-022,2026-08-28,Standard Order,Item Picking,7.8,1,20.0,9,7.0,Completed
+ORD-022,2026-08-28,Standard Order,Quality Check,2.6,1,20.0,9,2.5,Completed
+ORD-022,2026-08-28,Standard Order,Packing,4.9,1,20.0,9,4.5,Completed
+ORD-022,2026-08-28,Standard Order,Labeling,1.7,1,20.0,9,1.5,Completed
+ORD-022,2026-08-28,Standard Order,Staging for Shipment,2.4,1,20.0,9,2.0,Completed
+ORD-023,2026-08-12,Standard Order,Order Received,1.5,1,20.0,8,1.5,Completed
+ORD-023,2026-08-12,Standard Order,Item Picking,7.7,1,20.0,8,7.0,Completed
+ORD-023,2026-08-12,Standard Order,Quality Check,2.8,1,20.0,8,2.5,Completed
+ORD-023,2026-08-12,Standard Order,Packing,5.3,1,20.0,8,4.5,Completed
+ORD-023,2026-08-12,Standard Order,Labeling,1.7,1,20.0,8,1.5,Completed
+ORD-023,2026-08-12,Standard Order,Staging for Shipment,2.6,1,20.0,8,2.0,Completed
+ORD-024,2026-08-02,Standard Order,Order Received,1.6,1,20.0,12,1.5,Completed
+ORD-024,2026-08-02,Standard Order,Item Picking,5.3,2,20.0,12,7.0,Completed
+ORD-024,2026-08-02,Standard Order,Quality Check,2.3,1,20.0,12,2.5,Completed
+ORD-024,2026-08-02,Standard Order,Packing,4.5,1,20.0,12,4.5,Completed
+ORD-024,2026-08-02,Standard Order,Labeling,1.5,1,20.0,12,1.5,Completed
+ORD-024,2026-08-02,Standard Order,Staging for Shipment,2.1,1,20.0,12,2.0,Completed
+ORD-025,2026-08-24,Standard Order,Order Received,1.7,1,20.0,12,1.5,Completed
+ORD-025,2026-08-24,Standard Order,Item Picking,6.1,2,20.0,12,7.0,Completed
+ORD-025,2026-08-24,Standard Order,Quality Check,2.5,1,20.0,12,2.5,Completed
+ORD-025,2026-08-24,Standard Order,Packing,5.4,1,20.0,12,4.5,Completed
+ORD-025,2026-08-24,Standard Order,Labeling,1.4,1,20.0,12,1.5,Completed
+ORD-025,2026-08-24,Standard Order,Staging for Shipment,2.2,1,20.0,12,2.0,Completed
+ORD-026,2026-08-13,Standard Order,Order Received,1.4,1,20.0,15,1.5,Completed
+ORD-026,2026-08-13,Standard Order,Item Picking,6.4,2,20.0,15,7.0,Completed
+ORD-026,2026-08-13,Standard Order,Quality Check,2.5,1,20.0,15,2.5,Completed
+ORD-026,2026-08-13,Standard Order,Packing,5.0,1,20.0,15,4.5,Completed
+ORD-026,2026-08-13,Standard Order,Labeling,1.3,1,20.0,15,1.5,Completed
+ORD-026,2026-08-13,Standard Order,Staging for Shipment,1.9,1,20.0,15,2.0,Completed
+ORD-027,2026-08-20,Standard Order,Order Received,1.7,1,20.0,10,1.5,Completed
+ORD-027,2026-08-20,Standard Order,Item Picking,7.0,1,20.0,10,7.0,Completed
+ORD-027,2026-08-20,Standard Order,Quality Check,2.7,1,20.0,10,2.5,Completed
+ORD-027,2026-08-20,Standard Order,Packing,5.3,1,20.0,10,4.5,Completed
+ORD-027,2026-08-20,Standard Order,Labeling,1.7,1,20.0,10,1.5,Completed
+ORD-027,2026-08-20,Standard Order,Staging for Shipment,2.2,1,20.0,10,2.0,Completed
+ORD-028,2026-08-28,Standard Order,Order Received,1.5,1,20.0,12,1.5,Completed
+ORD-028,2026-08-28,Standard Order,Item Picking,8.5,1,20.0,12,7.0,Completed
+ORD-028,2026-08-28,Standard Order,Quality Check,2.7,1,20.0,12,2.5,Completed
+ORD-028,2026-08-28,Standard Order,Packing,5.8,1,20.0,12,4.5,Completed
+ORD-028,2026-08-28,Standard Order,Labeling,1.5,1,20.0,12,1.5,Completed
+ORD-028,2026-08-28,Standard Order,Staging for Shipment,2.2,1,20.0,12,2.0,Completed
+ORD-029,2026-08-20,Standard Order,Order Received,1.8,1,20.0,6,1.5,Completed
+ORD-029,2026-08-20,Standard Order,Item Picking,6.9,1,20.0,6,7.0,Completed
+ORD-029,2026-08-20,Standard Order,Quality Check,3.0,1,20.0,6,2.5,Completed
+ORD-029,2026-08-20,Standard Order,Packing,4.7,1,20.0,6,4.5,Completed
+ORD-029,2026-08-20,Standard Order,Labeling,1.9,1,20.0,6,1.5,Completed
+ORD-029,2026-08-20,Standard Order,Staging for Shipment,2.2,1,20.0,6,2.0,Completed
+ORD-030,2026-08-30,Standard Order,Order Received,1.4,1,20.0,11,1.5,Completed
+ORD-030,2026-08-30,Standard Order,Item Picking,7.7,1,20.0,11,7.0,Completed
+ORD-030,2026-08-30,Standard Order,Quality Check,2.4,1,20.0,11,2.5,Completed
+ORD-030,2026-08-30,Standard Order,Packing,3.9,1,20.0,11,4.5,Completed
+ORD-030,2026-08-30,Standard Order,Labeling,1.4,1,20.0,11,1.5,Completed
+ORD-030,2026-08-30,Standard Order,Staging for Shipment,2.0,1,20.0,11,2.0,Completed
+ORD-031,2026-08-22,Standard Order,Order Received,1.2,1,20.0,14,1.5,Completed
+ORD-031,2026-08-22,Standard Order,Item Picking,7.6,1,20.0,14,7.0,Completed
+ORD-031,2026-08-22,Standard Order,Quality Check,2.5,1,20.0,14,2.5,Completed
+ORD-031,2026-08-22,Standard Order,Packing,3.6,2,20.0,14,4.5,Completed
+ORD-031,2026-08-22,Standard Order,Labeling,1.4,1,20.0,14,1.5,Completed
+ORD-031,2026-08-22,Standard Order,Staging for Shipment,2.3,1,20.0,14,2.0,Completed
+ORD-032,2026-08-25,Standard Order,Order Received,2.0,1,20.0,11,1.5,Completed
+ORD-032,2026-08-25,Standard Order,Item Picking,9.8,1,20.0,11,7.0,Completed
+ORD-032,2026-08-25,Standard Order,Quality Check,3.2,1,20.0,11,2.5,Completed
+ORD-032,2026-08-25,Standard Order,Packing,6.1,1,20.0,11,4.5,Completed
+ORD-032,2026-08-25,Standard Order,Labeling,1.9,1,20.0,11,1.5,Completed
+ORD-032,2026-08-25,Standard Order,Staging for Shipment,2.5,1,20.0,11,2.0,Completed
+ORD-033,2026-08-27,Standard Order,Order Received,1.6,1,20.0,10,1.5,Completed
+ORD-033,2026-08-27,Standard Order,Item Picking,7.7,1,20.0,10,7.0,Completed
+ORD-033,2026-08-27,Standard Order,Quality Check,2.6,1,20.0,10,2.5,Completed
+ORD-033,2026-08-27,Standard Order,Packing,4.4,1,20.0,10,4.5,Completed
+ORD-033,2026-08-27,Standard Order,Labeling,1.8,1,20.0,10,1.5,Completed
+ORD-033,2026-08-27,Standard Order,Staging for Shipment,2.3,1,20.0,10,2.0,Completed
+ORD-034,2026-08-04,Standard Order,Order Received,1.5,1,20.0,14,1.5,Completed
+ORD-034,2026-08-04,Standard Order,Item Picking,8.8,1,20.0,14,7.0,Completed
+ORD-034,2026-08-04,Standard Order,Quality Check,2.7,1,20.0,14,2.5,Completed
+ORD-034,2026-08-04,Standard Order,Packing,4.3,1,20.0,14,4.5,Completed
+ORD-034,2026-08-04,Standard Order,Labeling,1.6,1,20.0,14,1.5,Completed
+ORD-034,2026-08-04,Standard Order,Staging for Shipment,2.0,1,20.0,14,2.0,Completed
+ORD-035,2026-08-25,Standard Order,Order Received,1.5,1,20.0,10,1.5,Completed
+ORD-035,2026-08-25,Standard Order,Item Picking,7.5,1,20.0,10,7.0,Completed
+ORD-035,2026-08-25,Standard Order,Quality Check,2.8,1,20.0,10,2.5,Completed
+ORD-035,2026-08-25,Standard Order,Packing,5.0,1,20.0,10,4.5,Completed
+ORD-035,2026-08-25,Standard Order,Labeling,1.6,1,20.0,10,1.5,Completed
+ORD-035,2026-08-25,Standard Order,Staging for Shipment,1.9,1,20.0,10,2.0,Completed
+ORD-036,2026-08-30,Standard Order,Order Received,1.5,1,20.0,15,1.5,Completed
+ORD-036,2026-08-30,Standard Order,Item Picking,6.3,2,20.0,15,7.0,Completed
+ORD-036,2026-08-30,Standard Order,Quality Check,2.7,1,20.0,15,2.5,Completed
+ORD-036,2026-08-30,Standard Order,Packing,5.2,1,20.0,15,4.5,Completed
+ORD-036,2026-08-30,Standard Order,Labeling,1.7,1,20.0,15,1.5,Completed
+ORD-036,2026-08-30,Standard Order,Staging for Shipment,1.8,1,20.0,15,2.0,Completed
+ORD-037,2026-08-24,Standard Order,Order Received,1.8,1,20.0,13,1.5,Completed
+ORD-037,2026-08-24,Standard Order,Item Picking,10.1,1,20.0,13,7.0,Completed
+ORD-037,2026-08-24,Standard Order,Quality Check,3.2,1,20.0,13,2.5,Completed
+ORD-037,2026-08-24,Standard Order,Packing,5.6,1,20.0,13,4.5,Completed
+ORD-037,2026-08-24,Standard Order,Labeling,1.8,1,20.0,13,1.5,Completed
+ORD-037,2026-08-24,Standard Order,Staging for Shipment,2.4,1,20.0,13,2.0,Completed
+ORD-038,2026-08-05,Standard Order,Order Received,1.5,1,20.0,13,1.5,Completed
+ORD-038,2026-08-05,Standard Order,Item Picking,7.8,1,20.0,13,7.0,Completed
+ORD-038,2026-08-05,Standard Order,Quality Check,2.4,1,20.0,13,2.5,Completed
+ORD-038,2026-08-05,Standard Order,Packing,4.6,1,20.0,13,4.5,Completed
+ORD-038,2026-08-05,Standard Order,Labeling,1.5,1,20.0,13,1.5,Completed
+ORD-038,2026-08-05,Standard Order,Staging for Shipment,2.0,1,20.0,13,2.0,Completed
+ORD-039,2026-08-20,Standard Order,Order Received,1.6,1,20.0,14,1.5,Completed
+ORD-039,2026-08-20,Standard Order,Item Picking,8.7,1,20.0,14,7.0,Completed
+ORD-039,2026-08-20,Standard Order,Quality Check,2.6,1,20.0,14,2.5,Completed
+ORD-039,2026-08-20,Standard Order,Packing,3.4,2,20.0,14,4.5,Completed
+ORD-039,2026-08-20,Standard Order,Labeling,1.5,1,20.0,14,1.5,Completed
+ORD-039,2026-08-20,Standard Order,Staging for Shipment,2.3,1,20.0,14,2.0,Completed
+ORD-040,2026-08-23,Standard Order,Order Received,1.4,1,20.0,11,1.5,Completed
+ORD-040,2026-08-23,Standard Order,Item Picking,7.5,1,20.0,11,7.0,Completed
+ORD-040,2026-08-23,Standard Order,Quality Check,2.3,1,20.0,11,2.5,Completed
+ORD-040,2026-08-23,Standard Order,Packing,4.3,1,20.0,11,4.5,Completed
+ORD-040,2026-08-23,Standard Order,Labeling,1.4,1,20.0,11,1.5,Completed
+ORD-040,2026-08-23,Standard Order,Staging for Shipment,1.9,1,20.0,11,2.0,Completed
+ORD-041,2026-08-13,Standard Order,Order Received,1.2,1,20.0,5,1.5,Completed
+ORD-041,2026-08-13,Standard Order,Item Picking,4.2,1,20.0,5,7.0,Completed
+ORD-041,2026-08-13,Standard Order,Quality Check,2.1,1,20.0,5,2.5,Completed
+ORD-041,2026-08-13,Standard Order,Packing,3.1,1,20.0,5,4.5,Completed
+ORD-041,2026-08-13,Standard Order,Labeling,1.2,1,20.0,5,1.5,Completed
+ORD-041,2026-08-13,Standard Order,Staging for Shipment,1.3,1,20.0,5,2.0,Completed
+ORD-042,2026-08-29,Standard Order,Order Received,1.3,1,20.0,5,1.5,Completed
+ORD-042,2026-08-29,Standard Order,Item Picking,5.7,1,20.0,5,7.0,Completed
+ORD-042,2026-08-29,Standard Order,Quality Check,2.4,1,20.0,5,2.5,Completed
+ORD-042,2026-08-29,Standard Order,Packing,4.2,1,20.0,5,4.5,Completed
+ORD-042,2026-08-29,Standard Order,Labeling,1.7,1,20.0,5,1.5,Completed
+ORD-042,2026-08-29,Standard Order,Staging for Shipment,1.8,1,20.0,5,2.0,Completed
+ORD-043,2026-08-15,Standard Order,Order Received,1.4,1,20.0,10,1.5,Completed
+ORD-043,2026-08-15,Standard Order,Item Picking,6.5,1,20.0,10,7.0,Completed
+ORD-043,2026-08-15,Standard Order,Quality Check,2.2,1,20.0,10,2.5,Completed
+ORD-043,2026-08-15,Standard Order,Packing,4.0,1,20.0,10,4.5,Completed
+ORD-043,2026-08-15,Standard Order,Labeling,1.5,1,20.0,10,1.5,Completed
+ORD-043,2026-08-15,Standard Order,Staging for Shipment,1.6,1,20.0,10,2.0,Completed
+ORD-044,2026-08-12,Standard Order,Order Received,1.5,1,20.0,11,1.5,Completed
+ORD-044,2026-08-12,Standard Order,Item Picking,7.2,1,20.0,11,7.0,Completed
+ORD-044,2026-08-12,Standard Order,Quality Check,2.5,1,20.0,11,2.5,Completed
+ORD-044,2026-08-12,Standard Order,Packing,4.0,1,20.0,11,4.5,Completed
+ORD-044,2026-08-12,Standard Order,Labeling,1.4,1,20.0,11,1.5,Completed
+ORD-044,2026-08-12,Standard Order,Staging for Shipment,1.7,1,20.0,11,2.0,Completed
+ORD-045,2026-08-19,Standard Order,Order Received,1.8,1,20.0,6,1.5,Completed
+ORD-045,2026-08-19,Standard Order,Item Picking,5.1,1,20.0,6,7.0,Completed
+ORD-045,2026-08-19,Standard Order,Quality Check,2.6,1,20.0,6,2.5,Completed
+ORD-045,2026-08-19,Standard Order,Packing,3.9,1,20.0,6,4.5,Completed
+ORD-045,2026-08-19,Standard Order,Labeling,1.6,1,20.0,6,1.5,Completed
+ORD-045,2026-08-19,Standard Order,Staging for Shipment,1.9,1,20.0,6,2.0,Completed
+ORD-046,2026-08-13,Standard Order,Order Received,1.6,1,20.0,8,1.5,Completed
+ORD-046,2026-08-13,Standard Order,Item Picking,5.8,1,20.0,8,7.0,Completed
+ORD-046,2026-08-13,Standard Order,Quality Check,2.7,1,20.0,8,2.5,Completed
+ORD-046,2026-08-13,Standard Order,Packing,4.5,1,20.0,8,4.5,Completed
+ORD-046,2026-08-13,Standard Order,Labeling,1.5,1,20.0,8,1.5,Completed
+ORD-046,2026-08-13,Standard Order,Staging for Shipment,2.1,1,20.0,8,2.0,Completed
+ORD-047,2026-08-27,Standard Order,Order Received,1.5,1,20.0,13,1.5,Completed
+ORD-047,2026-08-27,Standard Order,Item Picking,5.7,2,20.0,13,7.0,Completed
+ORD-047,2026-08-27,Standard Order,Quality Check,2.9,1,20.0,13,2.5,Completed
+ORD-047,2026-08-27,Standard Order,Packing,3.4,2,20.0,13,4.5,Completed
+ORD-047,2026-08-27,Standard Order,Labeling,1.7,1,20.0,13,1.5,Completed
+ORD-047,2026-08-27,Standard Order,Staging for Shipment,2.1,1,20.0,13,2.0,Completed
+ORD-048,2026-08-12,Standard Order,Order Received,1.7,1,20.0,11,1.5,Completed
+ORD-048,2026-08-12,Standard Order,Item Picking,8.9,1,20.0,11,7.0,Completed
+ORD-048,2026-08-12,Standard Order,Quality Check,3.0,1,20.0,11,2.5,Completed
+ORD-048,2026-08-12,Standard Order,Packing,5.3,1,20.0,11,4.5,Completed
+ORD-048,2026-08-12,Standard Order,Labeling,1.6,1,20.0,11,1.5,Completed
+ORD-048,2026-08-12,Standard Order,Staging for Shipment,2.4,1,20.0,11,2.0,Completed
+ORD-049,2026-08-07,Standard Order,Order Received,1.4,1,20.0,9,1.5,Completed
+ORD-049,2026-08-07,Standard Order,Item Picking,5.7,1,20.0,9,7.0,Completed
+ORD-049,2026-08-07,Standard Order,Quality Check,2.4,1,20.0,9,2.5,Completed
+ORD-049,2026-08-07,Standard Order,Packing,3.9,1,20.0,9,4.5,Completed
+ORD-049,2026-08-07,Standard Order,Labeling,1.4,1,20.0,9,1.5,Completed
+ORD-049,2026-08-07,Standard Order,Staging for Shipment,2.3,1,20.0,9,2.0,Completed
+ORD-050,2026-08-28,Standard Order,Order Received,1.6,1,20.0,5,1.5,Completed
+ORD-050,2026-08-28,Standard Order,Item Picking,4.7,1,20.0,5,7.0,Completed
+ORD-050,2026-08-28,Standard Order,Quality Check,2.5,1,20.0,5,2.5,Completed
+ORD-050,2026-08-28,Standard Order,Packing,4.2,1,20.0,5,4.5,Completed
+ORD-050,2026-08-28,Standard Order,Labeling,1.6,1,20.0,5,1.5,Completed
+ORD-050,2026-08-28,Standard Order,Staging for Shipment,1.8,1,20.0,5,2.0,Completed
+ORD-051,2026-08-02,Standard Order,Order Received,1.4,1,20.0,9,1.5,Completed
+ORD-051,2026-08-02,Standard Order,Item Picking,5.9,1,20.0,9,7.0,Completed
+ORD-051,2026-08-02,Standard Order,Quality Check,1.9,1,20.0,9,2.5,Completed
+ORD-051,2026-08-02,Standard Order,Packing,4.0,1,20.0,9,4.5,Completed
+ORD-051,2026-08-02,Standard Order,Labeling,1.4,1,20.0,9,1.5,Completed
+ORD-051,2026-08-02,Standard Order,Staging for Shipment,1.8,1,20.0,9,2.0,Completed
+ORD-052,2026-08-15,Standard Order,Order Received,1.4,1,20.0,7,1.5,Completed
+ORD-052,2026-08-15,Standard Order,Item Picking,6.4,1,20.0,7,7.0,Completed
+ORD-052,2026-08-15,Standard Order,Quality Check,2.6,1,20.0,7,2.5,Completed
+ORD-052,2026-08-15,Standard Order,Packing,3.2,1,20.0,7,4.5,Completed
+ORD-052,2026-08-15,Standard Order,Labeling,1.3,1,20.0,7,1.5,Completed
+ORD-052,2026-08-15,Standard Order,Staging for Shipment,1.7,1,20.0,7,2.0,Completed
+ORD-053,2026-08-01,Standard Order,Order Received,1.4,1,20.0,7,1.5,Completed
+ORD-053,2026-08-01,Standard Order,Item Picking,4.9,1,20.0,7,7.0,Completed
+ORD-053,2026-08-01,Standard Order,Quality Check,2.1,1,20.0,7,2.5,Completed
+ORD-053,2026-08-01,Standard Order,Packing,3.4,1,20.0,7,4.5,Completed
+ORD-053,2026-08-01,Standard Order,Labeling,1.0,1,20.0,7,1.5,Completed
+ORD-053,2026-08-01,Standard Order,Staging for Shipment,1.7,1,20.0,7,2.0,Completed
+ORD-054,2026-08-12,Standard Order,Order Received,1.9,1,20.0,15,1.5,Completed
+ORD-054,2026-08-12,Standard Order,Item Picking,8.5,2,20.0,15,7.0,Completed
+ORD-054,2026-08-12,Standard Order,Quality Check,4.0,1,20.0,15,2.5,Completed
+ORD-054,2026-08-12,Standard Order,Packing,7.7,1,20.0,15,4.5,Completed
+ORD-054,2026-08-12,Standard Order,Labeling,2.2,1,20.0,15,1.5,Completed
+ORD-054,2026-08-12,Standard Order,Staging for Shipment,2.9,1,20.0,15,2.0,Completed
+ORD-055,2026-08-10,Standard Order,Order Received,1.6,1,20.0,15,1.5,Completed
+ORD-055,2026-08-10,Standard Order,Item Picking,10.4,1,20.0,15,7.0,Completed
+ORD-055,2026-08-10,Standard Order,Quality Check,2.7,1,20.0,15,2.5,Completed
+ORD-055,2026-08-10,Standard Order,Packing,4.2,2,20.0,15,4.5,Completed
+ORD-055,2026-08-10,Standard Order,Labeling,1.6,1,20.0,15,1.5,Completed
+ORD-055,2026-08-10,Standard Order,Staging for Shipment,2.3,1,20.0,15,2.0,Completed
+ORD-056,2026-08-19,Standard Order,Order Received,1.7,1,20.0,14,1.5,Completed
+ORD-056,2026-08-19,Standard Order,Item Picking,9.5,1,20.0,14,7.0,Completed
+ORD-056,2026-08-19,Standard Order,Quality Check,3.0,1,20.0,14,2.5,Completed
+ORD-056,2026-08-19,Standard Order,Packing,3.9,2,20.0,14,4.5,Completed
+ORD-056,2026-08-19,Standard Order,Labeling,1.7,1,20.0,14,1.5,Completed
+ORD-056,2026-08-19,Standard Order,Staging for Shipment,2.2,1,20.0,14,2.0,Completed
+ORD-057,2026-08-11,Standard Order,Order Received,1.8,1,20.0,15,1.5,Completed
+ORD-057,2026-08-11,Standard Order,Item Picking,6.3,2,20.0,15,7.0,Completed
+ORD-057,2026-08-11,Standard Order,Quality Check,3.1,1,20.0,15,2.5,Completed
+ORD-057,2026-08-11,Standard Order,Packing,6.2,1,20.0,15,4.5,Completed
+ORD-057,2026-08-11,Standard Order,Labeling,1.7,1,20.0,15,1.5,Completed
+ORD-057,2026-08-11,Standard Order,Staging for Shipment,2.5,1,20.0,15,2.0,Completed
+ORD-058,2026-08-04,Standard Order,Order Received,1.1,1,20.0,9,1.5,Completed
+ORD-058,2026-08-04,Standard Order,Item Picking,3.9,1,20.0,9,7.0,Completed
+ORD-058,2026-08-04,Standard Order,Quality Check,1.9,1,20.0,9,2.5,Completed
+ORD-058,2026-08-04,Standard Order,Packing,3.7,1,20.0,9,4.5,Completed
+ORD-058,2026-08-04,Standard Order,Labeling,1.2,1,20.0,9,1.5,Completed
+ORD-058,2026-08-04,Standard Order,Staging for Shipment,1.5,1,20.0,9,2.0,Completed
+ORD-059,2026-08-09,Standard Order,Order Received,1.5,1,20.0,14,1.5,Completed
+ORD-059,2026-08-09,Standard Order,Item Picking,6.5,2,20.0,14,7.0,Completed
+ORD-059,2026-08-09,Standard Order,Quality Check,2.5,1,20.0,14,2.5,Completed
+ORD-059,2026-08-09,Standard Order,Packing,5.2,1,20.0,14,4.5,Completed
+ORD-059,2026-08-09,Standard Order,Labeling,1.5,1,20.0,14,1.5,Completed
+ORD-059,2026-08-09,Standard Order,Staging for Shipment,1.9,1,20.0,14,2.0,Completed
+ORD-060,2026-08-20,Standard Order,Order Received,1.5,1,20.0,7,1.5,Completed
+ORD-060,2026-08-20,Standard Order,Item Picking,5.2,1,20.0,7,7.0,Completed
+ORD-060,2026-08-20,Standard Order,Quality Check,2.0,1,20.0,7,2.5,Completed
+ORD-060,2026-08-20,Standard Order,Packing,3.9,1,20.0,7,4.5,Completed
+ORD-060,2026-08-20,Standard Order,Labeling,1.6,1,20.0,7,1.5,Completed
+ORD-060,2026-08-20,Standard Order,Staging for Shipment,1.9,1,20.0,7,2.0,Completed
+ORD-061,2026-08-30,Standard Order,Order Received,2.2,1,20.0,14,1.5,Completed
+ORD-061,2026-08-30,Standard Order,Item Picking,12.5,1,20.0,14,7.0,Completed
+ORD-061,2026-08-30,Standard Order,Quality Check,3.4,1,20.0,14,2.5,Completed
+ORD-061,2026-08-30,Standard Order,Packing,8.1,1,20.0,14,4.5,Completed
+ORD-061,2026-08-30,Standard Order,Labeling,2.2,1,20.0,14,1.5,Completed
+ORD-061,2026-08-30,Standard Order,Staging for Shipment,3.1,1,20.0,14,2.0,Completed
+ORD-062,2026-08-20,Standard Order,Order Received,1.6,1,20.0,15,1.5,Completed
+ORD-062,2026-08-20,Standard Order,Item Picking,7.7,2,20.0,15,7.0,Completed
+ORD-062,2026-08-20,Standard Order,Quality Check,3.1,1,20.0,15,2.5,Completed
+ORD-062,2026-08-20,Standard Order,Packing,6.2,1,20.0,15,4.5,Completed
+ORD-062,2026-08-20,Standard Order,Labeling,1.6,1,20.0,15,1.5,Completed
+ORD-062,2026-08-20,Standard Order,Staging for Shipment,2.1,1,20.0,15,2.0,Completed
+ORD-063,2026-08-09,Standard Order,Order Received,1.9,1,20.0,5,1.5,Completed
+ORD-063,2026-08-09,Standard Order,Item Picking,5.4,1,20.0,5,7.0,Completed
+ORD-063,2026-08-09,Standard Order,Quality Check,3.0,1,20.0,5,2.5,Completed
+ORD-063,2026-08-09,Standard Order,Packing,4.6,1,20.0,5,4.5,Completed
+ORD-063,2026-08-09,Standard Order,Labeling,1.5,1,20.0,5,1.5,Completed
+ORD-063,2026-08-09,Standard Order,Staging for Shipment,2.0,1,20.0,5,2.0,Completed
+ORD-064,2026-08-05,Standard Order,Order Received,1.4,1,20.0,5,1.5,Completed
+ORD-064,2026-08-05,Standard Order,Item Picking,4.8,1,20.0,5,7.0,Completed
+ORD-064,2026-08-05,Standard Order,Quality Check,2.2,1,20.0,5,2.5,Completed
+ORD-064,2026-08-05,Standard Order,Packing,4.0,1,20.0,5,4.5,Completed
+ORD-064,2026-08-05,Standard Order,Labeling,1.5,1,20.0,5,1.5,Completed
+ORD-064,2026-08-05,Standard Order,Staging for Shipment,2.0,1,20.0,5,2.0,Completed
+ORD-065,2026-08-28,Standard Order,Order Received,1.5,1,20.0,15,1.5,Completed
+ORD-065,2026-08-28,Standard Order,Item Picking,9.6,1,20.0,15,7.0,Completed
+ORD-065,2026-08-28,Standard Order,Quality Check,2.8,1,20.0,15,2.5,Completed
+ORD-065,2026-08-28,Standard Order,Packing,4.4,1,20.0,15,4.5,Completed
+ORD-065,2026-08-28,Standard Order,Labeling,1.5,1,20.0,15,1.5,Completed
+ORD-065,2026-08-28,Standard Order,Staging for Shipment,2.0,1,20.0,15,2.0,Completed
+ORD-066,2026-08-02,Standard Order,Order Received,1.1,1,20.0,7,1.5,Completed
+ORD-066,2026-08-02,Standard Order,Item Picking,4.6,1,20.0,7,7.0,Completed
+ORD-066,2026-08-02,Standard Order,Quality Check,1.8,1,20.0,7,2.5,Completed
+ORD-066,2026-08-02,Standard Order,Packing,3.5,1,20.0,7,4.5,Completed
+ORD-066,2026-08-02,Standard Order,Labeling,1.3,1,20.0,7,1.5,Completed
+ORD-066,2026-08-02,Standard Order,Staging for Shipment,1.5,1,20.0,7,2.0,Completed
+ORD-067,2026-08-16,Standard Order,Order Received,1.6,1,20.0,10,1.5,Completed
+ORD-067,2026-08-16,Standard Order,Item Picking,9.1,1,20.0,10,7.0,Completed
+ORD-067,2026-08-16,Standard Order,Quality Check,2.7,1,20.0,10,2.5,Completed
+ORD-067,2026-08-16,Standard Order,Packing,4.6,1,20.0,10,4.5,Completed
+ORD-067,2026-08-16,Standard Order,Labeling,1.6,1,20.0,10,1.5,Completed
+ORD-067,2026-08-16,Standard Order,Staging for Shipment,2.3,1,20.0,10,2.0,Completed
+ORD-068,2026-08-15,Standard Order,Order Received,1.3,1,20.0,11,1.5,Completed
+ORD-068,2026-08-15,Standard Order,Item Picking,6.2,1,20.0,11,7.0,Completed
+ORD-068,2026-08-15,Standard Order,Quality Check,2.2,1,20.0,11,2.5,Completed
+ORD-068,2026-08-15,Standard Order,Packing,4.0,1,20.0,11,4.5,Completed
+ORD-068,2026-08-15,Standard Order,Labeling,1.3,1,20.0,11,1.5,Completed
+ORD-068,2026-08-15,Standard Order,Staging for Shipment,1.9,1,20.0,11,2.0,Completed
+ORD-069,2026-08-15,Standard Order,Order Received,1.3,1,20.0,15,1.5,Completed
+ORD-069,2026-08-15,Standard Order,Item Picking,7.9,1,20.0,15,7.0,Completed
+ORD-069,2026-08-15,Standard Order,Quality Check,2.3,1,20.0,15,2.5,Completed
+ORD-069,2026-08-15,Standard Order,Packing,4.9,1,20.0,15,4.5,Completed
+ORD-069,2026-08-15,Standard Order,Labeling,1.4,1,20.0,15,1.5,Completed
+ORD-069,2026-08-15,Standard Order,Staging for Shipment,1.9,1,20.0,15,2.0,Completed
+ORD-070,2026-08-29,Standard Order,Order Received,1.6,1,20.0,13,1.5,Completed
+ORD-070,2026-08-29,Standard Order,Item Picking,8.2,1,20.0,13,7.0,Completed
+ORD-070,2026-08-29,Standard Order,Quality Check,2.6,1,20.0,13,2.5,Completed
+ORD-070,2026-08-29,Standard Order,Packing,4.7,1,20.0,13,4.5,Completed
+ORD-070,2026-08-29,Standard Order,Labeling,1.6,1,20.0,13,1.5,Completed
+ORD-070,2026-08-29,Standard Order,Staging for Shipment,1.7,1,20.0,13,2.0,Completed
+ORD-071,2026-08-24,Standard Order,Order Received,1.4,1,20.0,11,1.5,Completed
+ORD-071,2026-08-24,Standard Order,Item Picking,6.7,1,20.0,11,7.0,Completed
+ORD-071,2026-08-24,Standard Order,Quality Check,2.2,1,20.0,11,2.5,Completed
+ORD-071,2026-08-24,Standard Order,Packing,3.7,1,20.0,11,4.5,Completed
+ORD-071,2026-08-24,Standard Order,Labeling,1.3,1,20.0,11,1.5,Completed
+ORD-071,2026-08-24,Standard Order,Staging for Shipment,1.7,1,20.0,11,2.0,Completed
+ORD-072,2026-08-13,Standard Order,Order Received,1.8,1,20.0,5,1.5,Completed
+ORD-072,2026-08-13,Standard Order,Item Picking,6.7,1,20.0,5,7.0,Completed
+ORD-072,2026-08-13,Standard Order,Quality Check,3.0,1,20.0,5,2.5,Completed
+ORD-072,2026-08-13,Standard Order,Packing,4.7,1,20.0,5,4.5,Completed
+ORD-072,2026-08-13,Standard Order,Labeling,2.1,1,20.0,5,1.5,Completed
+ORD-072,2026-08-13,Standard Order,Staging for Shipment,2.7,1,20.0,5,2.0,Completed
+ORD-073,2026-08-14,Standard Order,Order Received,1.7,1,20.0,11,1.5,Completed
+ORD-073,2026-08-14,Standard Order,Item Picking,8.7,1,20.0,11,7.0,Completed
+ORD-073,2026-08-14,Standard Order,Quality Check,2.2,1,20.0,11,2.5,Completed
+ORD-073,2026-08-14,Standard Order,Packing,5.3,1,20.0,11,4.5,Completed
+ORD-073,2026-08-14,Standard Order,Labeling,1.7,1,20.0,11,1.5,Completed
+ORD-073,2026-08-14,Standard Order,Staging for Shipment,2.4,1,20.0,11,2.0,Completed
+ORD-074,2026-08-16,Standard Order,Order Received,1.5,1,20.0,7,1.5,Completed
+ORD-074,2026-08-16,Standard Order,Item Picking,6.2,1,20.0,7,7.0,Completed
+ORD-074,2026-08-16,Standard Order,Quality Check,2.2,1,20.0,7,2.5,Completed
+ORD-074,2026-08-16,Standard Order,Packing,3.6,1,20.0,7,4.5,Completed
+ORD-074,2026-08-16,Standard Order,Labeling,1.4,1,20.0,7,1.5,Completed
+ORD-074,2026-08-16,Standard Order,Staging for Shipment,1.8,1,20.0,7,2.0,Completed
+ORD-075,2026-08-22,Standard Order,Order Received,1.2,1,20.0,9,1.5,Completed
+ORD-075,2026-08-22,Standard Order,Item Picking,5.6,1,20.0,9,7.0,Completed
+ORD-075,2026-08-22,Standard Order,Quality Check,1.9,1,20.0,9,2.5,Completed
+ORD-075,2026-08-22,Standard Order,Packing,3.4,1,20.0,9,4.5,Completed
+ORD-075,2026-08-22,Standard Order,Labeling,1.1,1,20.0,9,1.5,Completed
+ORD-075,2026-08-22,Standard Order,Staging for Shipment,1.6,1,20.0,9,2.0,Completed
+ORD-076,2026-08-14,Priority Order,Order Received,0.7,1,20.0,6,1.0,Completed
+ORD-076,2026-08-14,Priority Order,Item Picking,3.1,2,20.0,6,4.5,Completed
+ORD-076,2026-08-14,Priority Order,Quality Check,1.8,1,20.0,6,2.0,Completed
+ORD-076,2026-08-14,Priority Order,Packing,3.1,1,20.0,6,3.5,Completed
+ORD-076,2026-08-14,Priority Order,Labeling,1.1,1,20.0,6,1.2,Completed
+ORD-076,2026-08-14,Priority Order,Staging for Shipment,1.2,1,20.0,6,1.5,Completed
+ORD-077,2026-08-26,Priority Order,Order Received,1.1,1,20.0,4,1.0,Completed
+ORD-077,2026-08-26,Priority Order,Item Picking,3.6,1,20.0,4,4.5,Completed
+ORD-077,2026-08-26,Priority Order,Quality Check,1.8,1,20.0,4,2.0,Completed
+ORD-077,2026-08-26,Priority Order,Packing,2.2,2,20.0,4,3.5,Completed
+ORD-077,2026-08-26,Priority Order,Labeling,1.1,1,20.0,4,1.2,Completed
+ORD-077,2026-08-26,Priority Order,Staging for Shipment,1.4,1,20.0,4,1.5,Completed
+ORD-078,2026-08-26,Priority Order,Order Received,1.1,1,20.0,9,1.0,Completed
+ORD-078,2026-08-26,Priority Order,Item Picking,7.1,1,20.0,9,4.5,Completed
+ORD-078,2026-08-26,Priority Order,Quality Check,2.0,1,20.0,9,2.0,Completed
+ORD-078,2026-08-26,Priority Order,Packing,3.0,2,20.0,9,3.5,Completed
+ORD-078,2026-08-26,Priority Order,Labeling,1.2,1,20.0,9,1.2,Completed
+ORD-078,2026-08-26,Priority Order,Staging for Shipment,1.3,2,20.0,9,1.5,Completed
+ORD-079,2026-08-02,Priority Order,Order Received,0.9,1,20.0,7,1.0,Completed
+ORD-079,2026-08-02,Priority Order,Item Picking,3.7,2,20.0,7,4.5,Completed
+ORD-079,2026-08-02,Priority Order,Quality Check,2.1,1,20.0,7,2.0,Completed
+ORD-079,2026-08-02,Priority Order,Packing,4.6,1,20.0,7,3.5,Completed
+ORD-079,2026-08-02,Priority Order,Labeling,1.1,1,20.0,7,1.2,Completed
+ORD-079,2026-08-02,Priority Order,Staging for Shipment,1.0,2,20.0,7,1.5,Completed
+ORD-080,2026-08-09,Priority Order,Order Received,1.1,1,20.0,7,1.0,Completed
+ORD-080,2026-08-09,Priority Order,Item Picking,5.3,1,20.0,7,4.5,Completed
+ORD-080,2026-08-09,Priority Order,Quality Check,2.1,1,20.0,7,2.0,Completed
+ORD-080,2026-08-09,Priority Order,Packing,2.9,2,20.0,7,3.5,Completed
+ORD-080,2026-08-09,Priority Order,Labeling,1.4,1,20.0,7,1.2,Completed
+ORD-080,2026-08-09,Priority Order,Staging for Shipment,1.1,2,20.0,7,1.5,Completed
+ORD-081,2026-08-22,Priority Order,Order Received,0.9,1,20.0,4,1.0,Completed
+ORD-081,2026-08-22,Priority Order,Item Picking,4.2,1,20.0,4,4.5,Completed
+ORD-081,2026-08-22,Priority Order,Quality Check,1.8,1,20.0,4,2.0,Completed
+ORD-081,2026-08-22,Priority Order,Packing,3.4,1,20.0,4,3.5,Completed
+ORD-081,2026-08-22,Priority Order,Labeling,1.1,1,20.0,4,1.2,Completed
+ORD-081,2026-08-22,Priority Order,Staging for Shipment,1.6,1,20.0,4,1.5,Completed
+ORD-082,2026-08-25,Priority Order,Order Received,1.0,1,20.0,1,1.0,Completed
+ORD-082,2026-08-25,Priority Order,Item Picking,2.7,1,20.0,1,4.5,Completed
+ORD-082,2026-08-25,Priority Order,Quality Check,1.7,1,20.0,1,2.0,Completed
+ORD-082,2026-08-25,Priority Order,Packing,2.5,1,20.0,1,3.5,Completed
+ORD-082,2026-08-25,Priority Order,Labeling,1.1,1,20.0,1,1.2,Completed
+ORD-082,2026-08-25,Priority Order,Staging for Shipment,1.2,1,20.0,1,1.5,Completed
+ORD-083,2026-08-21,Priority Order,Order Received,0.9,1,20.0,10,1.0,Completed
+ORD-083,2026-08-21,Priority Order,Item Picking,4.6,2,20.0,10,4.5,Completed
+ORD-083,2026-08-21,Priority Order,Quality Check,2.1,1,20.0,10,2.0,Completed
+ORD-083,2026-08-21,Priority Order,Packing,2.9,2,20.0,10,3.5,Completed
+ORD-083,2026-08-21,Priority Order,Labeling,1.2,1,20.0,10,1.2,Completed
+ORD-083,2026-08-21,Priority Order,Staging for Shipment,1.8,1,20.0,10,1.5,Completed
+ORD-084,2026-08-15,Priority Order,Order Received,1.2,1,20.0,5,1.0,Completed
+ORD-084,2026-08-15,Priority Order,Item Picking,3.5,2,20.0,5,4.5,Completed
+ORD-084,2026-08-15,Priority Order,Quality Check,2.1,1,20.0,5,2.0,Completed
+ORD-084,2026-08-15,Priority Order,Packing,3.8,1,20.0,5,3.5,Completed
+ORD-084,2026-08-15,Priority Order,Labeling,1.3,1,20.0,5,1.2,Completed
+ORD-084,2026-08-15,Priority Order,Staging for Shipment,1.7,1,20.0,5,1.5,Completed
+ORD-085,2026-08-11,Priority Order,Order Received,1.2,1,20.0,9,1.0,Completed
+ORD-085,2026-08-11,Priority Order,Item Picking,4.7,2,20.0,9,4.5,Completed
+ORD-085,2026-08-11,Priority Order,Quality Check,2.5,1,20.0,9,2.0,Completed
+ORD-085,2026-08-11,Priority Order,Packing,3.9,2,20.0,9,3.5,Completed
+ORD-085,2026-08-11,Priority Order,Labeling,1.6,1,20.0,9,1.2,Completed
+ORD-085,2026-08-11,Priority Order,Staging for Shipment,1.8,1,20.0,9,1.5,Completed
+ORD-086,2026-08-13,Priority Order,Order Received,0.7,1,20.0,4,1.0,Completed
+ORD-086,2026-08-13,Priority Order,Item Picking,2.7,1,20.0,4,4.5,Completed
+ORD-086,2026-08-13,Priority Order,Quality Check,1.6,1,20.0,4,2.0,Completed
+ORD-086,2026-08-13,Priority Order,Packing,1.8,2,20.0,4,3.5,Completed
+ORD-086,2026-08-13,Priority Order,Labeling,0.9,1,20.0,4,1.2,Completed
+ORD-086,2026-08-13,Priority Order,Staging for Shipment,1.1,1,20.0,4,1.5,Completed
+ORD-087,2026-08-20,Priority Order,Order Received,1.0,1,20.0,1,1.0,Completed
+ORD-087,2026-08-20,Priority Order,Item Picking,1.7,2,20.0,1,4.5,Completed
+ORD-087,2026-08-20,Priority Order,Quality Check,1.8,1,20.0,1,2.0,Completed
+ORD-087,2026-08-20,Priority Order,Packing,1.7,2,20.0,1,3.5,Completed
+ORD-087,2026-08-20,Priority Order,Labeling,1.1,1,20.0,1,1.2,Completed
+ORD-087,2026-08-20,Priority Order,Staging for Shipment,1.0,2,20.0,1,1.5,Completed
+ORD-088,2026-08-26,Priority Order,Order Received,0.8,1,20.0,10,1.0,Completed
+ORD-088,2026-08-26,Priority Order,Item Picking,4.2,2,20.0,10,4.5,Completed
+ORD-088,2026-08-26,Priority Order,Quality Check,1.7,1,20.0,10,2.0,Completed
+ORD-088,2026-08-26,Priority Order,Packing,3.8,1,20.0,10,3.5,Completed
+ORD-088,2026-08-26,Priority Order,Labeling,0.9,1,20.0,10,1.2,Completed
+ORD-088,2026-08-26,Priority Order,Staging for Shipment,1.4,1,20.0,10,1.5,Completed
+ORD-089,2026-08-06,Priority Order,Order Received,0.9,1,20.0,2,1.0,Completed
+ORD-089,2026-08-06,Priority Order,Item Picking,1.9,2,20.0,2,4.5,Completed
+ORD-089,2026-08-06,Priority Order,Quality Check,1.9,1,20.0,2,2.0,Completed
+ORD-089,2026-08-06,Priority Order,Packing,3.0,1,20.0,2,3.5,Completed
+ORD-089,2026-08-06,Priority Order,Labeling,1.2,1,20.0,2,1.2,Completed
+ORD-089,2026-08-06,Priority Order,Staging for Shipment,1.6,1,20.0,2,1.5,Completed
+ORD-090,2026-08-07,Priority Order,Order Received,1.0,1,20.0,1,1.0,Completed
+ORD-090,2026-08-07,Priority Order,Item Picking,2.5,1,20.0,1,4.5,Completed
+ORD-090,2026-08-07,Priority Order,Quality Check,1.6,1,20.0,1,2.0,Completed
+ORD-090,2026-08-07,Priority Order,Packing,1.6,2,20.0,1,3.5,Completed
+ORD-090,2026-08-07,Priority Order,Labeling,1.1,1,20.0,1,1.2,Completed
+ORD-090,2026-08-07,Priority Order,Staging for Shipment,1.4,1,20.0,1,1.5,Completed
+ORD-091,2026-08-28,Priority Order,Order Received,1.1,1,20.0,1,1.0,Completed
+ORD-091,2026-08-28,Priority Order,Item Picking,1.9,2,20.0,1,4.5,Completed
+ORD-091,2026-08-28,Priority Order,Quality Check,1.8,1,20.0,1,2.0,Completed
+ORD-091,2026-08-28,Priority Order,Packing,2.1,2,20.0,1,3.5,Completed
+ORD-091,2026-08-28,Priority Order,Labeling,1.2,1,20.0,1,1.2,Completed
+ORD-091,2026-08-28,Priority Order,Staging for Shipment,1.5,1,20.0,1,1.5,Completed
+ORD-092,2026-08-24,Priority Order,Order Received,1.0,1,20.0,2,1.0,Completed
+ORD-092,2026-08-24,Priority Order,Item Picking,1.9,2,20.0,2,4.5,Completed
+ORD-092,2026-08-24,Priority Order,Quality Check,2.1,1,20.0,2,2.0,Completed
+ORD-092,2026-08-24,Priority Order,Packing,2.8,1,20.0,2,3.5,Completed
+ORD-092,2026-08-24,Priority Order,Labeling,1.3,1,20.0,2,1.2,Completed
+ORD-092,2026-08-24,Priority Order,Staging for Shipment,1.5,1,20.0,2,1.5,Completed
+ORD-093,2026-08-12,Priority Order,Order Received,1.1,1,20.0,1,1.0,Completed
+ORD-093,2026-08-12,Priority Order,Item Picking,2.8,1,20.0,1,4.5,Completed
+ORD-093,2026-08-12,Priority Order,Quality Check,1.9,1,20.0,1,2.0,Completed
+ORD-093,2026-08-12,Priority Order,Packing,1.9,2,20.0,1,3.5,Completed
+ORD-093,2026-08-12,Priority Order,Labeling,1.1,1,20.0,1,1.2,Completed
+ORD-093,2026-08-12,Priority Order,Staging for Shipment,1.0,2,20.0,1,1.5,Completed
+ORD-094,2026-08-29,Priority Order,Order Received,1.0,1,20.0,8,1.0,Completed
+ORD-094,2026-08-29,Priority Order,Item Picking,4.2,2,20.0,8,4.5,Completed
+ORD-094,2026-08-29,Priority Order,Quality Check,2.1,1,20.0,8,2.0,Completed
+ORD-094,2026-08-29,Priority Order,Packing,4.1,1,20.0,8,3.5,Completed
+ORD-094,2026-08-29,Priority Order,Labeling,1.3,1,20.0,8,1.2,Completed
+ORD-094,2026-08-29,Priority Order,Staging for Shipment,1.2,2,20.0,8,1.5,Completed
+ORD-095,2026-08-20,Priority Order,Order Received,1.1,1,20.0,6,1.0,Completed
+ORD-095,2026-08-20,Priority Order,Item Picking,4.7,2,20.0,6,4.5,Completed
+ORD-095,2026-08-20,Priority Order,Quality Check,2.7,1,20.0,6,2.0,Completed
+ORD-095,2026-08-20,Priority Order,Packing,5.1,1,20.0,6,3.5,Completed
+ORD-095,2026-08-20,Priority Order,Labeling,1.6,1,20.0,6,1.2,Completed
+ORD-095,2026-08-20,Priority Order,Staging for Shipment,1.9,1,20.0,6,1.5,Completed
+ORD-096,2026-08-21,Priority Order,Order Received,0.9,1,20.0,5,1.0,Completed
+ORD-096,2026-08-21,Priority Order,Item Picking,3.5,2,20.0,5,4.5,Completed
+ORD-096,2026-08-21,Priority Order,Quality Check,1.9,1,20.0,5,2.0,Completed
+ORD-096,2026-08-21,Priority Order,Packing,3.8,1,20.0,5,3.5,Completed
+ORD-096,2026-08-21,Priority Order,Labeling,1.2,1,20.0,5,1.2,Completed
+ORD-096,2026-08-21,Priority Order,Staging for Shipment,1.6,1,20.0,5,1.5,Completed
+ORD-097,2026-08-14,Priority Order,Order Received,1.1,1,20.0,5,1.0,Completed
+ORD-097,2026-08-14,Priority Order,Item Picking,3.1,2,20.0,5,4.5,Completed
+ORD-097,2026-08-14,Priority Order,Quality Check,2.0,1,20.0,5,2.0,Completed
+ORD-097,2026-08-14,Priority Order,Packing,3.1,1,20.0,5,3.5,Completed
+ORD-097,2026-08-14,Priority Order,Labeling,1.2,1,20.0,5,1.2,Completed
+ORD-097,2026-08-14,Priority Order,Staging for Shipment,1.5,1,20.0,5,1.5,Completed
+ORD-098,2026-08-27,Priority Order,Order Received,1.1,1,20.0,7,1.0,Completed
+ORD-098,2026-08-27,Priority Order,Item Picking,4.9,2,20.0,7,4.5,Completed
+ORD-098,2026-08-27,Priority Order,Quality Check,2.2,1,20.0,7,2.0,Completed
+ORD-098,2026-08-27,Priority Order,Packing,3.2,2,20.0,7,3.5,Completed
+ORD-098,2026-08-27,Priority Order,Labeling,1.2,1,20.0,7,1.2,Completed
+ORD-098,2026-08-27,Priority Order,Staging for Shipment,1.9,1,20.0,7,1.5,Completed
+ORD-099,2026-08-17,Priority Order,Order Received,1.1,1,20.0,6,1.0,Completed
+ORD-099,2026-08-17,Priority Order,Item Picking,4.0,2,20.0,6,4.5,Completed
+ORD-099,2026-08-17,Priority Order,Quality Check,2.1,1,20.0,6,2.0,Completed
+ORD-099,2026-08-17,Priority Order,Packing,2.7,2,20.0,6,3.5,Completed
+ORD-099,2026-08-17,Priority Order,Labeling,1.2,1,20.0,6,1.2,Completed
+ORD-099,2026-08-17,Priority Order,Staging for Shipment,1.6,1,20.0,6,1.5,Completed
+ORD-100,2026-08-27,Priority Order,Order Received,0.9,1,20.0,5,1.0,Completed
+ORD-100,2026-08-27,Priority Order,Item Picking,4.2,1,20.0,5,4.5,Completed
+ORD-100,2026-08-27,Priority Order,Quality Check,2.1,1,20.0,5,2.0,Completed
+ORD-100,2026-08-27,Priority Order,Packing,3.2,1,20.0,5,3.5,Completed
+ORD-100,2026-08-27,Priority Order,Labeling,1.1,1,20.0,5,1.2,Completed
+ORD-100,2026-08-27,Priority Order,Staging for Shipment,1.4,1,20.0,5,1.5,Completed
+ORD-101,2026-08-06,Priority Order,Order Received,1.4,1,20.0,6,1.0,Completed
+ORD-101,2026-08-06,Priority Order,Item Picking,4.7,2,20.0,6,4.5,Completed
+ORD-101,2026-08-06,Priority Order,Quality Check,2.7,1,20.0,6,2.0,Completed
+ORD-101,2026-08-06,Priority Order,Packing,4.8,1,20.0,6,3.5,Completed
+ORD-101,2026-08-06,Priority Order,Labeling,1.6,1,20.0,6,1.2,Completed
+ORD-101,2026-08-06,Priority Order,Staging for Shipment,2.1,1,20.0,6,1.5,Completed
+ORD-102,2026-08-29,Priority Order,Order Received,1.0,1,20.0,2,1.0,Completed
+ORD-102,2026-08-29,Priority Order,Item Picking,2.3,1,20.0,2,4.5,Completed
+ORD-102,2026-08-29,Priority Order,Quality Check,1.6,1,20.0,2,2.0,Completed
+ORD-102,2026-08-29,Priority Order,Packing,3.0,1,20.0,2,3.5,Completed
+ORD-102,2026-08-29,Priority Order,Labeling,1.2,1,20.0,2,1.2,Completed
+ORD-102,2026-08-29,Priority Order,Staging for Shipment,1.2,1,20.0,2,1.5,Completed
+ORD-103,2026-08-10,Priority Order,Order Received,1.1,1,20.0,8,1.0,Completed
+ORD-103,2026-08-10,Priority Order,Item Picking,6.9,1,20.0,8,4.5,Completed
+ORD-103,2026-08-10,Priority Order,Quality Check,2.3,1,20.0,8,2.0,Completed
+ORD-103,2026-08-10,Priority Order,Packing,3.0,2,20.0,8,3.5,Completed
+ORD-103,2026-08-10,Priority Order,Labeling,1.4,1,20.0,8,1.2,Completed
+ORD-103,2026-08-10,Priority Order,Staging for Shipment,1.4,2,20.0,8,1.5,Completed
+ORD-104,2026-08-21,Priority Order,Order Received,1.0,1,20.0,9,1.0,Completed
+ORD-104,2026-08-21,Priority Order,Item Picking,4.5,2,20.0,9,4.5,Completed
+ORD-104,2026-08-21,Priority Order,Quality Check,2.1,1,20.0,9,2.0,Completed
+ORD-104,2026-08-21,Priority Order,Packing,4.1,1,20.0,9,3.5,Completed
+ORD-104,2026-08-21,Priority Order,Labeling,1.0,1,20.0,9,1.2,Completed
+ORD-104,2026-08-21,Priority Order,Staging for Shipment,1.1,2,20.0,9,1.5,Completed
+ORD-105,2026-08-07,Priority Order,Order Received,1.3,1,20.0,5,1.0,Completed
+ORD-105,2026-08-07,Priority Order,Item Picking,4.1,2,20.0,5,4.5,Completed
+ORD-105,2026-08-07,Priority Order,Quality Check,2.4,1,20.0,5,2.0,Completed
+ORD-105,2026-08-07,Priority Order,Packing,4.7,1,20.0,5,3.5,Completed
+ORD-105,2026-08-07,Priority Order,Labeling,1.5,1,20.0,5,1.2,Completed
+ORD-105,2026-08-07,Priority Order,Staging for Shipment,1.9,1,20.0,5,1.5,Completed
+ORD-106,2026-08-28,Priority Order,Order Received,1.0,1,20.0,10,1.0,Completed
+ORD-106,2026-08-28,Priority Order,Item Picking,4.9,2,20.0,10,4.5,Completed
+ORD-106,2026-08-28,Priority Order,Quality Check,2.1,1,20.0,10,2.0,Completed
+ORD-106,2026-08-28,Priority Order,Packing,3.1,2,20.0,10,3.5,Completed
+ORD-106,2026-08-28,Priority Order,Labeling,1.2,1,20.0,10,1.2,Completed
+ORD-106,2026-08-28,Priority Order,Staging for Shipment,1.6,1,20.0,10,1.5,Completed
+ORD-107,2026-08-08,Priority Order,Order Received,0.9,1,20.0,2,1.0,Completed
+ORD-107,2026-08-08,Priority Order,Item Picking,2.1,2,20.0,2,4.5,Completed
+ORD-107,2026-08-08,Priority Order,Quality Check,1.8,1,20.0,2,2.0,Completed
+ORD-107,2026-08-08,Priority Order,Packing,1.9,2,20.0,2,3.5,Completed
+ORD-107,2026-08-08,Priority Order,Labeling,1.2,1,20.0,2,1.2,Completed
+ORD-107,2026-08-08,Priority Order,Staging for Shipment,1.3,1,20.0,2,1.5,Completed
+ORD-108,2026-08-25,Priority Order,Order Received,0.9,1,20.0,6,1.0,Completed
+ORD-108,2026-08-25,Priority Order,Item Picking,4.3,1,20.0,6,4.5,Completed
+ORD-108,2026-08-25,Priority Order,Quality Check,1.9,1,20.0,6,2.0,Completed
+ORD-108,2026-08-25,Priority Order,Packing,3.2,1,20.0,6,3.5,Completed
+ORD-108,2026-08-25,Priority Order,Labeling,1.2,1,20.0,6,1.2,Completed
+ORD-108,2026-08-25,Priority Order,Staging for Shipment,1.4,1,20.0,6,1.5,Completed
+ORD-109,2026-08-24,Priority Order,Order Received,1.3,1,20.0,6,1.0,Completed
+ORD-109,2026-08-24,Priority Order,Item Picking,4.7,2,20.0,6,4.5,Completed
+ORD-109,2026-08-24,Priority Order,Quality Check,2.8,1,20.0,6,2.0,Completed
+ORD-109,2026-08-24,Priority Order,Packing,3.6,2,20.0,6,3.5,Completed
+ORD-109,2026-08-24,Priority Order,Labeling,1.4,1,20.0,6,1.2,Completed
+ORD-109,2026-08-24,Priority Order,Staging for Shipment,1.9,1,20.0,6,1.5,Completed
+ORD-110,2026-08-09,Priority Order,Order Received,1.1,1,20.0,5,1.0,Completed
+ORD-110,2026-08-09,Priority Order,Item Picking,4.9,1,20.0,5,4.5,Completed
+ORD-110,2026-08-09,Priority Order,Quality Check,1.9,1,20.0,5,2.0,Completed
+ORD-110,2026-08-09,Priority Order,Packing,2.4,2,20.0,5,3.5,Completed
+ORD-110,2026-08-09,Priority Order,Labeling,1.3,1,20.0,5,1.2,Completed
+ORD-110,2026-08-09,Priority Order,Staging for Shipment,1.1,2,20.0,5,1.5,Completed
+ORD-111,2026-08-12,Priority Order,Order Received,1.1,1,20.0,9,1.0,Completed
+ORD-111,2026-08-12,Priority Order,Item Picking,5.8,2,20.0,9,4.5,Completed
+ORD-111,2026-08-12,Priority Order,Quality Check,2.4,1,20.0,9,2.0,Completed
+ORD-111,2026-08-12,Priority Order,Packing,4.9,1,20.0,9,3.5,Completed
+ORD-111,2026-08-12,Priority Order,Labeling,1.3,1,20.0,9,1.2,Completed
+ORD-111,2026-08-12,Priority Order,Staging for Shipment,1.3,2,20.0,9,1.5,Completed
+ORD-112,2026-08-04,Priority Order,Order Received,0.8,1,20.0,2,1.0,Completed
+ORD-112,2026-08-04,Priority Order,Item Picking,2.1,2,20.0,2,4.5,Completed
+ORD-112,2026-08-04,Priority Order,Quality Check,1.8,1,20.0,2,2.0,Completed
+ORD-112,2026-08-04,Priority Order,Packing,2.7,1,20.0,2,3.5,Completed
+ORD-112,2026-08-04,Priority Order,Labeling,1.1,1,20.0,2,1.2,Completed
+ORD-112,2026-08-04,Priority Order,Staging for Shipment,1.0,1,20.0,2,1.5,Completed
+ORD-113,2026-08-21,Priority Order,Order Received,0.8,1,20.0,10,1.0,Completed
+ORD-113,2026-08-21,Priority Order,Item Picking,4.4,2,20.0,10,4.5,Completed
+ORD-113,2026-08-21,Priority Order,Quality Check,2.2,1,20.0,10,2.0,Completed
+ORD-113,2026-08-21,Priority Order,Packing,4.3,1,20.0,10,3.5,Completed
+ORD-113,2026-08-21,Priority Order,Labeling,1.0,1,20.0,10,1.2,Completed
+ORD-113,2026-08-21,Priority Order,Staging for Shipment,1.5,1,20.0,10,1.5,Completed
+ORD-114,2026-08-16,Priority Order,Order Received,1.0,1,20.0,3,1.0,Completed
+ORD-114,2026-08-16,Priority Order,Item Picking,2.5,2,20.0,3,4.5,Completed
+ORD-114,2026-08-16,Priority Order,Quality Check,2.3,1,20.0,3,2.0,Completed
+ORD-114,2026-08-16,Priority Order,Packing,2.5,2,20.0,3,3.5,Completed
+ORD-114,2026-08-16,Priority Order,Labeling,1.3,1,20.0,3,1.2,Completed
+ORD-114,2026-08-16,Priority Order,Staging for Shipment,1.4,1,20.0,3,1.5,Completed
+ORD-115,2026-08-14,Priority Order,Order Received,1.0,1,20.0,1,1.0,Completed
+ORD-115,2026-08-14,Priority Order,Item Picking,2.5,1,20.0,1,4.5,Completed
+ORD-115,2026-08-14,Priority Order,Quality Check,1.7,1,20.0,1,2.0,Completed
+ORD-115,2026-08-14,Priority Order,Packing,2.5,1,20.0,1,3.5,Completed
+ORD-115,2026-08-14,Priority Order,Labeling,1.1,1,20.0,1,1.2,Completed
+ORD-115,2026-08-14,Priority Order,Staging for Shipment,0.9,2,20.0,1,1.5,Completed
+ORD-116,2026-08-11,Priority Order,Order Received,0.8,1,20.0,7,1.0,Completed
+ORD-116,2026-08-11,Priority Order,Item Picking,4.7,1,20.0,7,4.5,Completed
+ORD-116,2026-08-11,Priority Order,Quality Check,1.9,1,20.0,7,2.0,Completed
+ORD-116,2026-08-11,Priority Order,Packing,3.6,1,20.0,7,3.5,Completed
+ORD-116,2026-08-11,Priority Order,Labeling,1.2,1,20.0,7,1.2,Completed
+ORD-116,2026-08-11,Priority Order,Staging for Shipment,1.2,1,20.0,7,1.5,Completed
+ORD-117,2026-08-14,Priority Order,Order Received,1.1,1,20.0,6,1.0,Completed
+ORD-117,2026-08-14,Priority Order,Item Picking,4.2,2,20.0,6,4.5,Completed
+ORD-117,2026-08-14,Priority Order,Quality Check,2.3,1,20.0,6,2.0,Completed
+ORD-117,2026-08-14,Priority Order,Packing,3.2,2,20.0,6,3.5,Completed
+ORD-117,2026-08-14,Priority Order,Labeling,1.3,1,20.0,6,1.2,Completed
+ORD-117,2026-08-14,Priority Order,Staging for Shipment,1.9,1,20.0,6,1.5,Completed
+ORD-118,2026-08-02,Priority Order,Order Received,0.9,1,20.0,8,1.0,Completed
+ORD-118,2026-08-02,Priority Order,Item Picking,4.3,2,20.0,8,4.5,Completed
+ORD-118,2026-08-02,Priority Order,Quality Check,2.4,1,20.0,8,2.0,Completed
+ORD-118,2026-08-02,Priority Order,Packing,2.5,2,20.0,8,3.5,Completed
+ORD-118,2026-08-02,Priority Order,Labeling,1.2,1,20.0,8,1.2,Completed
+ORD-118,2026-08-02,Priority Order,Staging for Shipment,1.4,1,20.0,8,1.5,Completed
+ORD-119,2026-08-21,Priority Order,Order Received,1.1,1,20.0,9,1.0,Completed
+ORD-119,2026-08-21,Priority Order,Item Picking,5.5,2,20.0,9,4.5,Completed
+ORD-119,2026-08-21,Priority Order,Quality Check,2.7,1,20.0,9,2.0,Completed
+ORD-119,2026-08-21,Priority Order,Packing,5.7,1,20.0,9,3.5,Completed
+ORD-119,2026-08-21,Priority Order,Labeling,1.4,1,20.0,9,1.2,Completed
+ORD-119,2026-08-21,Priority Order,Staging for Shipment,2.2,1,20.0,9,1.5,Completed
+ORD-120,2026-08-29,Priority Order,Order Received,1.4,1,20.0,6,1.0,Completed
+ORD-120,2026-08-29,Priority Order,Item Picking,4.3,2,20.0,6,4.5,Completed
+ORD-120,2026-08-29,Priority Order,Quality Check,2.6,1,20.0,6,2.0,Completed
+ORD-120,2026-08-29,Priority Order,Packing,5.4,1,20.0,6,3.5,Completed
+ORD-120,2026-08-29,Priority Order,Labeling,1.6,1,20.0,6,1.2,Completed
+ORD-120,2026-08-29,Priority Order,Staging for Shipment,2.0,1,20.0,6,1.5,Completed
+ORD-121,2026-08-05,Bulk Order,Order Received,2.4,1,20.0,50,2.0,Completed
+ORD-121,2026-08-05,Bulk Order,Item Picking,11.4,3,20.0,50,16.0,Completed
+ORD-121,2026-08-05,Bulk Order,Quality Check,5.0,1,20.0,50,5.0,Completed
+ORD-121,2026-08-05,Bulk Order,Packing,7.4,3,20.0,50,11.0,Completed
+ORD-121,2026-08-05,Bulk Order,Labeling,2.6,1,20.0,50,2.5,Completed
+ORD-121,2026-08-05,Bulk Order,Staging for Shipment,3.1,2,20.0,50,4.0,Completed
+ORD-122,2026-08-19,Bulk Order,Order Received,2.1,1,20.0,62,2.0,Completed
+ORD-122,2026-08-19,Bulk Order,Item Picking,10.1,4,20.0,62,16.0,Completed
+ORD-122,2026-08-19,Bulk Order,Quality Check,4.6,1,20.0,62,5.0,Completed
+ORD-122,2026-08-19,Bulk Order,Packing,7.3,3,20.0,62,11.0,Completed
+ORD-122,2026-08-19,Bulk Order,Labeling,2.5,1,20.0,62,2.5,Completed
+ORD-122,2026-08-19,Bulk Order,Staging for Shipment,2.2,3,20.0,62,4.0,Completed
+ORD-123,2026-08-03,Bulk Order,Order Received,1.9,1,20.0,55,2.0,Completed
+ORD-123,2026-08-03,Bulk Order,Item Picking,9.5,3,20.0,55,16.0,Completed
+ORD-123,2026-08-03,Bulk Order,Quality Check,5.8,1,20.0,55,5.0,Completed
+ORD-123,2026-08-03,Bulk Order,Packing,7.9,3,20.0,55,11.0,Completed
+ORD-123,2026-08-03,Bulk Order,Labeling,2.7,1,20.0,55,2.5,Completed
+ORD-123,2026-08-03,Bulk Order,Staging for Shipment,2.3,3,20.0,55,4.0,Completed
+ORD-124,2026-08-21,Bulk Order,Order Received,2.0,1,20.0,78,2.0,Completed
+ORD-124,2026-08-21,Bulk Order,Item Picking,11.0,4,20.0,78,16.0,Completed
+ORD-124,2026-08-21,Bulk Order,Quality Check,5.5,2,20.0,78,5.0,Completed
+ORD-124,2026-08-21,Bulk Order,Packing,7.7,3,20.0,78,11.0,Completed
+ORD-124,2026-08-21,Bulk Order,Labeling,2.6,1,20.0,78,2.5,Completed
+ORD-124,2026-08-21,Bulk Order,Staging for Shipment,2.4,3,20.0,78,4.0,Completed
+ORD-125,2026-08-06,Bulk Order,Order Received,2.1,1,20.0,27,2.0,Completed
+ORD-125,2026-08-06,Bulk Order,Item Picking,10.3,2,20.0,27,16.0,Completed
+ORD-125,2026-08-06,Bulk Order,Quality Check,4.2,1,20.0,27,5.0,Completed
+ORD-125,2026-08-06,Bulk Order,Packing,7.3,2,20.0,27,11.0,Completed
+ORD-125,2026-08-06,Bulk Order,Labeling,2.7,1,20.0,27,2.5,Completed
+ORD-125,2026-08-06,Bulk Order,Staging for Shipment,2.3,2,20.0,27,4.0,Completed
+ORD-126,2026-08-14,Bulk Order,Order Received,2.0,1,20.0,36,2.0,Completed
+ORD-126,2026-08-14,Bulk Order,Item Picking,7.1,3,20.0,36,16.0,Completed
+ORD-126,2026-08-14,Bulk Order,Quality Check,5.5,1,20.0,36,5.0,Completed
+ORD-126,2026-08-14,Bulk Order,Packing,5.6,3,20.0,36,11.0,Completed
+ORD-126,2026-08-14,Bulk Order,Labeling,2.1,1,20.0,36,2.5,Completed
+ORD-126,2026-08-14,Bulk Order,Staging for Shipment,2.6,2,20.0,36,4.0,Completed
+ORD-127,2026-08-11,Bulk Order,Order Received,2.6,1,20.0,65,2.0,Completed
+ORD-127,2026-08-11,Bulk Order,Item Picking,11.5,4,20.0,65,16.0,Completed
+ORD-127,2026-08-11,Bulk Order,Quality Check,5.8,1,20.0,65,5.0,Completed
+ORD-127,2026-08-11,Bulk Order,Packing,9.0,3,20.0,65,11.0,Completed
+ORD-127,2026-08-11,Bulk Order,Labeling,2.5,1,20.0,65,2.5,Completed
+ORD-127,2026-08-11,Bulk Order,Staging for Shipment,2.6,3,20.0,65,4.0,Completed
+ORD-128,2026-08-19,Bulk Order,Order Received,2.1,1,20.0,63,2.0,Completed
+ORD-128,2026-08-19,Bulk Order,Item Picking,10.6,4,20.0,63,16.0,Completed
+ORD-128,2026-08-19,Bulk Order,Quality Check,7.2,1,20.0,63,5.0,Completed
+ORD-128,2026-08-19,Bulk Order,Packing,7.3,3,20.0,63,11.0,Completed
+ORD-128,2026-08-19,Bulk Order,Labeling,2.7,1,20.0,63,2.5,Completed
+ORD-128,2026-08-19,Bulk Order,Staging for Shipment,2.5,3,20.0,63,4.0,Completed
+ORD-129,2026-08-01,Bulk Order,Order Received,2.1,1,20.0,74,2.0,Completed
+ORD-129,2026-08-01,Bulk Order,Item Picking,10.2,4,20.0,74,16.0,Completed
+ORD-129,2026-08-01,Bulk Order,Quality Check,4.5,2,20.0,74,5.0,Completed
+ORD-129,2026-08-01,Bulk Order,Packing,8.5,3,20.0,74,11.0,Completed
+ORD-129,2026-08-01,Bulk Order,Labeling,2.4,1,20.0,74,2.5,Completed
+ORD-129,2026-08-01,Bulk Order,Staging for Shipment,2.4,3,20.0,74,4.0,Completed
+ORD-130,2026-08-07,Bulk Order,Order Received,1.9,1,20.0,23,2.0,Completed
+ORD-130,2026-08-07,Bulk Order,Item Picking,8.4,2,20.0,23,16.0,Completed
+ORD-130,2026-08-07,Bulk Order,Quality Check,4.5,1,20.0,23,5.0,Completed
+ORD-130,2026-08-07,Bulk Order,Packing,6.2,2,20.0,23,11.0,Completed
+ORD-130,2026-08-07,Bulk Order,Labeling,2.6,1,20.0,23,2.5,Completed
+ORD-130,2026-08-07,Bulk Order,Staging for Shipment,2.8,2,20.0,23,4.0,Completed
+ORD-131,2026-08-19,Bulk Order,Order Received,1.9,1,20.0,40,2.0,Completed
+ORD-131,2026-08-19,Bulk Order,Item Picking,8.8,3,20.0,40,16.0,Completed
+ORD-131,2026-08-19,Bulk Order,Quality Check,5.3,1,20.0,40,5.0,Completed
+ORD-131,2026-08-19,Bulk Order,Packing,5.5,3,20.0,40,11.0,Completed
+ORD-131,2026-08-19,Bulk Order,Labeling,2.2,1,20.0,40,2.5,Completed
+ORD-131,2026-08-19,Bulk Order,Staging for Shipment,2.5,2,20.0,40,4.0,Completed
+ORD-132,2026-08-29,Bulk Order,Order Received,2.1,1,20.0,50,2.0,Completed
+ORD-132,2026-08-29,Bulk Order,Item Picking,10.1,3,20.0,50,16.0,Completed
+ORD-132,2026-08-29,Bulk Order,Quality Check,6.2,1,20.0,50,5.0,Completed
+ORD-132,2026-08-29,Bulk Order,Packing,7.4,3,20.0,50,11.0,Completed
+ORD-132,2026-08-29,Bulk Order,Labeling,2.7,1,20.0,50,2.5,Completed
+ORD-132,2026-08-29,Bulk Order,Staging for Shipment,3.3,2,20.0,50,4.0,Completed
+ORD-133,2026-08-01,Bulk Order,Order Received,2.0,1,20.0,28,2.0,Completed
+ORD-133,2026-08-01,Bulk Order,Item Picking,9.2,2,20.0,28,16.0,Completed
+ORD-133,2026-08-01,Bulk Order,Quality Check,5.2,1,20.0,28,5.0,Completed
+ORD-133,2026-08-01,Bulk Order,Packing,6.7,2,20.0,28,11.0,Completed
+ORD-133,2026-08-01,Bulk Order,Labeling,2.5,1,20.0,28,2.5,Completed
+ORD-133,2026-08-01,Bulk Order,Staging for Shipment,2.7,2,20.0,28,4.0,Completed
+ORD-134,2026-08-23,Bulk Order,Order Received,1.9,1,20.0,36,2.0,Completed
+ORD-134,2026-08-23,Bulk Order,Item Picking,9.3,3,20.0,36,16.0,Completed
+ORD-134,2026-08-23,Bulk Order,Quality Check,4.6,1,20.0,36,5.0,Completed
+ORD-134,2026-08-23,Bulk Order,Packing,6.2,3,20.0,36,11.0,Completed
+ORD-134,2026-08-23,Bulk Order,Labeling,2.6,1,20.0,36,2.5,Completed
+ORD-134,2026-08-23,Bulk Order,Staging for Shipment,2.7,2,20.0,36,4.0,Completed
+ORD-135,2026-08-29,Bulk Order,Order Received,2.4,1,20.0,45,2.0,Completed
+ORD-135,2026-08-29,Bulk Order,Item Picking,11.8,3,20.0,45,16.0,Completed
+ORD-135,2026-08-29,Bulk Order,Quality Check,5.7,1,20.0,45,5.0,Completed
+ORD-135,2026-08-29,Bulk Order,Packing,9.6,2,20.0,45,11.0,Completed
+ORD-135,2026-08-29,Bulk Order,Labeling,2.6,1,20.0,45,2.5,Completed
+ORD-135,2026-08-29,Bulk Order,Staging for Shipment,3.5,2,20.0,45,4.0,Completed
+ORD-136,2026-08-13,Bulk Order,Order Received,2.7,1,20.0,32,2.0,Completed
+ORD-136,2026-08-13,Bulk Order,Item Picking,10.8,2,20.0,32,16.0,Completed
+ORD-136,2026-08-13,Bulk Order,Quality Check,6.6,1,20.0,32,5.0,Completed
+ORD-136,2026-08-13,Bulk Order,Packing,8.6,2,20.0,32,11.0,Completed
+ORD-136,2026-08-13,Bulk Order,Labeling,3.4,1,20.0,32,2.5,Completed
+ORD-136,2026-08-13,Bulk Order,Staging for Shipment,3.7,2,20.0,32,4.0,Completed
+ORD-137,2026-08-21,Bulk Order,Order Received,2.0,1,20.0,77,2.0,Completed
+ORD-137,2026-08-21,Bulk Order,Item Picking,11.9,4,20.0,77,16.0,Completed
+ORD-137,2026-08-21,Bulk Order,Quality Check,5.6,1,20.0,77,5.0,Completed
+ORD-137,2026-08-21,Bulk Order,Packing,7.8,3,20.0,77,11.0,Completed
+ORD-137,2026-08-21,Bulk Order,Labeling,3.0,1,20.0,77,2.5,Completed
+ORD-137,2026-08-21,Bulk Order,Staging for Shipment,2.5,3,20.0,77,4.0,Completed
+ORD-138,2026-08-21,Bulk Order,Order Received,2.2,1,20.0,54,2.0,Completed
+ORD-138,2026-08-21,Bulk Order,Item Picking,13.4,3,20.0,54,16.0,Completed
+ORD-138,2026-08-21,Bulk Order,Quality Check,6.7,1,20.0,54,5.0,Completed
+ORD-138,2026-08-21,Bulk Order,Packing,8.6,3,20.0,54,11.0,Completed
+ORD-138,2026-08-21,Bulk Order,Labeling,3.6,1,20.0,54,2.5,Completed
+ORD-138,2026-08-21,Bulk Order,Staging for Shipment,2.9,3,20.0,54,4.0,Completed
+ORD-139,2026-08-02,Bulk Order,Order Received,2.0,1,20.0,49,2.0,Completed
+ORD-139,2026-08-02,Bulk Order,Item Picking,11.2,3,20.0,49,16.0,Completed
+ORD-139,2026-08-02,Bulk Order,Quality Check,5.3,1,20.0,49,5.0,Completed
+ORD-139,2026-08-02,Bulk Order,Packing,9.4,2,20.0,49,11.0,Completed
+ORD-139,2026-08-02,Bulk Order,Labeling,2.8,1,20.0,49,2.5,Completed
+ORD-139,2026-08-02,Bulk Order,Staging for Shipment,2.9,2,20.0,49,4.0,Completed
+ORD-140,2026-08-04,Bulk Order,Order Received,2.2,1,20.0,31,2.0,Completed
+ORD-140,2026-08-04,Bulk Order,Item Picking,9.9,2,20.0,31,16.0,Completed
+ORD-140,2026-08-04,Bulk Order,Quality Check,5.0,1,20.0,31,5.0,Completed
+ORD-140,2026-08-04,Bulk Order,Packing,8.6,2,20.0,31,11.0,Completed
+ORD-140,2026-08-04,Bulk Order,Labeling,2.7,1,20.0,31,2.5,Completed
+ORD-140,2026-08-04,Bulk Order,Staging for Shipment,2.9,2,20.0,31,4.0,Completed
+ORD-141,2026-08-03,Bulk Order,Order Received,2.3,1,20.0,47,2.0,Completed
+ORD-141,2026-08-03,Bulk Order,Item Picking,10.7,3,20.0,47,16.0,Completed
+ORD-141,2026-08-03,Bulk Order,Quality Check,5.7,1,20.0,47,5.0,Completed
+ORD-141,2026-08-03,Bulk Order,Packing,9.0,2,20.0,47,11.0,Completed
+ORD-141,2026-08-03,Bulk Order,Labeling,3.3,1,20.0,47,2.5,Completed
+ORD-141,2026-08-03,Bulk Order,Staging for Shipment,3.4,2,20.0,47,4.0,Completed
+ORD-142,2026-08-06,Bulk Order,Order Received,1.7,1,20.0,43,2.0,Completed
+ORD-142,2026-08-06,Bulk Order,Item Picking,7.5,3,20.0,43,16.0,Completed
+ORD-142,2026-08-06,Bulk Order,Quality Check,4.8,1,20.0,43,5.0,Completed
+ORD-142,2026-08-06,Bulk Order,Packing,7.0,2,20.0,43,11.0,Completed
+ORD-142,2026-08-06,Bulk Order,Labeling,2.4,1,20.0,43,2.5,Completed
+ORD-142,2026-08-06,Bulk Order,Staging for Shipment,2.5,2,20.0,43,4.0,Completed
+ORD-143,2026-08-30,Bulk Order,Order Received,2.9,1,20.0,43,2.0,Completed
+ORD-143,2026-08-30,Bulk Order,Item Picking,11.1,3,20.0,43,16.0,Completed
+ORD-143,2026-08-30,Bulk Order,Quality Check,6.9,1,20.0,43,5.0,Completed
+ORD-143,2026-08-30,Bulk Order,Packing,7.7,3,20.0,43,11.0,Completed
+ORD-143,2026-08-30,Bulk Order,Labeling,3.4,1,20.0,43,2.5,Completed
+ORD-143,2026-08-30,Bulk Order,Staging for Shipment,4.1,2,20.0,43,4.0,Completed
+ORD-144,2026-08-21,Bulk Order,Order Received,2.5,1,20.0,34,2.0,Completed
+ORD-144,2026-08-21,Bulk Order,Item Picking,11.2,2,20.0,34,16.0,Completed
+ORD-144,2026-08-21,Bulk Order,Quality Check,6.0,1,20.0,34,5.0,Completed
+ORD-144,2026-08-21,Bulk Order,Packing,7.6,2,20.0,34,11.0,Completed
+ORD-144,2026-08-21,Bulk Order,Labeling,2.7,1,20.0,34,2.5,Completed
+ORD-144,2026-08-21,Bulk Order,Staging for Shipment,3.2,2,20.0,34,4.0,Completed
+ORD-145,2026-08-24,Bulk Order,Order Received,2.0,1,20.0,27,2.0,Completed
+ORD-145,2026-08-24,Bulk Order,Item Picking,9.1,2,20.0,27,16.0,Completed
+ORD-145,2026-08-24,Bulk Order,Quality Check,4.9,1,20.0,27,5.0,Completed
+ORD-145,2026-08-24,Bulk Order,Packing,6.7,2,20.0,27,11.0,Completed
+ORD-145,2026-08-24,Bulk Order,Labeling,2.4,1,20.0,27,2.5,Completed
+ORD-145,2026-08-24,Bulk Order,Staging for Shipment,2.7,2,20.0,27,4.0,Completed
+ORD-146,2026-08-22,Bulk Order,Order Received,2.5,1,20.0,62,2.0,Completed
+ORD-146,2026-08-22,Bulk Order,Item Picking,12.6,4,20.0,62,16.0,Completed
+ORD-146,2026-08-22,Bulk Order,Quality Check,7.2,1,20.0,62,5.0,Completed
+ORD-146,2026-08-22,Bulk Order,Packing,10.0,3,20.0,62,11.0,Completed
+ORD-146,2026-08-22,Bulk Order,Labeling,3.4,1,20.0,62,2.5,Completed
+ORD-146,2026-08-22,Bulk Order,Staging for Shipment,3.0,3,20.0,62,4.0,Completed
+ORD-147,2026-08-25,Bulk Order,Order Received,2.6,1,20.0,25,2.0,Completed
+ORD-147,2026-08-25,Bulk Order,Item Picking,11.7,2,20.0,25,16.0,Completed
+ORD-147,2026-08-25,Bulk Order,Quality Check,6.4,1,20.0,25,5.0,Completed
+ORD-147,2026-08-25,Bulk Order,Packing,8.3,2,20.0,25,11.0,Completed
+ORD-147,2026-08-25,Bulk Order,Labeling,3.2,1,20.0,25,2.5,Completed
+ORD-147,2026-08-25,Bulk Order,Staging for Shipment,3.8,2,20.0,25,4.0,Completed
+ORD-148,2026-08-01,Bulk Order,Order Received,2.8,1,20.0,69,2.0,Completed
+ORD-148,2026-08-01,Bulk Order,Item Picking,13.9,4,20.0,69,16.0,Completed
+ORD-148,2026-08-01,Bulk Order,Quality Check,6.2,2,20.0,69,5.0,Completed
+ORD-148,2026-08-01,Bulk Order,Packing,9.8,3,20.0,69,11.0,Completed
+ORD-148,2026-08-01,Bulk Order,Labeling,3.4,1,20.0,69,2.5,Completed
+ORD-148,2026-08-01,Bulk Order,Staging for Shipment,3.2,3,20.0,69,4.0,Completed
+ORD-149,2026-08-28,Bulk Order,Order Received,2.5,1,20.0,60,2.0,Completed
+ORD-149,2026-08-28,Bulk Order,Item Picking,12.4,3,20.0,60,16.0,Completed
+ORD-149,2026-08-28,Bulk Order,Quality Check,5.6,1,20.0,60,5.0,Completed
+ORD-149,2026-08-28,Bulk Order,Packing,8.0,3,20.0,60,11.0,Completed
+ORD-149,2026-08-28,Bulk Order,Labeling,2.7,1,20.0,60,2.5,Completed
+ORD-149,2026-08-28,Bulk Order,Staging for Shipment,2.6,3,20.0,60,4.0,Completed
+ORD-150,2026-08-15,Bulk Order,Order Received,2.2,1,20.0,78,2.0,Completed
+ORD-150,2026-08-15,Bulk Order,Item Picking,10.3,4,20.0,78,16.0,Completed
+ORD-150,2026-08-15,Bulk Order,Quality Check,5.8,1,20.0,78,5.0,Completed
+ORD-150,2026-08-15,Bulk Order,Packing,6.1,4,20.0,78,11.0,Completed
+ORD-150,2026-08-15,Bulk Order,Labeling,2.4,1,20.0,78,2.5,Completed
+ORD-150,2026-08-15,Bulk Order,Staging for Shipment,2.3,3,20.0,78,4.0,Completed

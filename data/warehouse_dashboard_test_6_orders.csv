@@ -1,0 +1,37 @@
+Order_ID,Order_Date,Process_Path,Process_Step,Duration_Minutes,Employees,Hourly_Wage,Units_Processed,Target_Time,Status
+TEST-001,08/01/2026,Standard Order,Order Received,2,1,20,10,2,Completed
+TEST-001,08/01/2026,Standard Order,Item Picking,6,1,20,10,5,Completed
+TEST-001,08/01/2026,Standard Order,Quality Check,3,1,20,10,3,Completed
+TEST-001,08/01/2026,Standard Order,Packing,4,1,20,10,4,Completed
+TEST-001,08/01/2026,Standard Order,Labeling,2,1,20,10,2,Completed
+TEST-001,08/01/2026,Standard Order,Staging for Shipment,3,1,20,10,4,Completed
+TEST-002,08/02/2026,Standard Order,Order Received,2,1,20,20,2,Completed
+TEST-002,08/02/2026,Standard Order,Item Picking,6,1,20,20,5,Completed
+TEST-002,08/02/2026,Standard Order,Quality Check,3,1,20,20,3,Completed
+TEST-002,08/02/2026,Standard Order,Packing,4,1,20,20,4,Completed
+TEST-002,08/02/2026,Standard Order,Labeling,2,1,20,20,2,Completed
+TEST-002,08/02/2026,Standard Order,Staging for Shipment,3,1,20,20,4,Completed
+TEST-003,08/03/2026,Priority Order,Order Received,1,1,24,10,2,Completed
+TEST-003,08/03/2026,Priority Order,Item Picking,5,1,24,10,5,Completed
+TEST-003,08/03/2026,Priority Order,Quality Check,2,1,24,10,3,Completed
+TEST-003,08/03/2026,Priority Order,Packing,3,1,24,10,4,Completed
+TEST-003,08/03/2026,Priority Order,Labeling,1,1,24,10,2,Completed
+TEST-003,08/03/2026,Priority Order,Staging for Shipment,2,1,24,10,4,Completed
+TEST-004,08/04/2026,Priority Order,Order Received,1,1,24,20,2,Completed
+TEST-004,08/04/2026,Priority Order,Item Picking,5,1,24,20,5,Completed
+TEST-004,08/04/2026,Priority Order,Quality Check,2,1,24,20,3,Completed
+TEST-004,08/04/2026,Priority Order,Packing,3,1,24,20,4,Completed
+TEST-004,08/04/2026,Priority Order,Labeling,1,1,24,20,2,Completed
+TEST-004,08/04/2026,Priority Order,Staging for Shipment,2,1,24,20,4,Completed
+TEST-005,08/05/2026,Bulk Order,Order Received,3,2,18,30,2,Completed
+TEST-005,08/05/2026,Bulk Order,Item Picking,7,2,18,30,5,Completed
+TEST-005,08/05/2026,Bulk Order,Quality Check,4,2,18,30,3,Completed
+TEST-005,08/05/2026,Bulk Order,Packing,5,2,18,30,4,Completed
+TEST-005,08/05/2026,Bulk Order,Labeling,3,2,18,30,2,Completed
+TEST-005,08/05/2026,Bulk Order,Staging for Shipment,4,2,18,30,4,Completed
+TEST-006,08/06/2026,Bulk Order,Order Received,3,2,18,40,2,Completed
+TEST-006,08/06/2026,Bulk Order,Item Picking,7,2,18,40,5,Completed
+TEST-006,08/06/2026,Bulk Order,Quality Check,4,2,18,40,3,Completed
+TEST-006,08/06/2026,Bulk Order,Packing,5,2,18,40,4,Completed
+TEST-006,08/06/2026,Bulk Order,Labeling,3,2,18,40,2,Completed
+TEST-006,08/06/2026,Bulk Order,Staging for Shipment,4,2,18,40,4,Completed
