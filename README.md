@@ -64,6 +64,7 @@ A separate controlled six-order dataset was used to manually
 verify KPI calculations and dashboard outputs.
 
 ## Project Structure
+```text
 warehouse-operations-vba/
 │
 ├── README.md
@@ -81,7 +82,7 @@ warehouse-operations-vba/
     ├── modCalculations.bas
     ├── modKPI.bas
     └── modDashboard.bas
-
+```
 ## VBA Architecture
 The application is separated into modules based on responsibility:
 - **modMain** — Controls the complete analysis workflow and user-facing actions.
